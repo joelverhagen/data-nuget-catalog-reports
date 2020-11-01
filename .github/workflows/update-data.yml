@@ -21,7 +21,7 @@ jobs:
     - name: Install tool
       run: dotnet tool install --global Knapcode.CatalogReports --version 0.0.3-beta
     - name: Run tool
-      run: Knapcode.CatalogReports --data-dir . --max-pages 500
+      run: Knapcode.CatalogReports --data-dir .
     - name: Commit and push if data has changed
       run: |-
         git config user.name "Automated"
