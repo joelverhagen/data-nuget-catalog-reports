@@ -7,7 +7,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
 
 jobs:
   scheduled:
@@ -19,9 +19,9 @@ jobs:
       with:
         dotnet-version: 3.1.403
     - name: Install tool
-      run: dotnet tool install --global Knapcode.CatalogReports --version 0.0.3-beta
+      run: dotnet tool install --global Knapcode.CatalogCrawler --version 0.0.4-beta
     - name: Run tool
-      run: Knapcode.CatalogReports --data-dir .
+      run: Knapcode.CatalogReports update-reports --data-dir . --reports DeletedPackages
     - name: Commit and push if data has changed
       run: |-
         git config user.name "Automated"
