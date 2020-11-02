@@ -21,7 +21,7 @@ jobs:
     - name: Install tool
       run: dotnet tool install --global Knapcode.CatalogCrawler --version 0.0.4-beta
     - name: Run tool
-      run: Knapcode.CatalogCrawler update-reports --data-dir . --max-pages 5
+      run: Knapcode.CatalogCrawler update-reports --data-dir .
     - name: Commit and push if data has changed
       run: |-
         git config user.name "Automated"
