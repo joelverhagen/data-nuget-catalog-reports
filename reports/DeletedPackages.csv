@@ -12652,3 +12652,7 @@ CommitTimestamp,Id,Version
 2020-11-05T08:49:03.0455468+00:00,Lateinos.FileStorage.Sdk,2.0.0-snapshot.2
 2020-11-05T12:32:58.2212161+00:00,Kmd.Logic.Gateway.Automation.Tool,0.1.0-dev-jtk-manual-001
 2020-11-05T12:32:58.2212161+00:00,Kmd.Logic.Gateway.Automation.Tool,0.1.0-dev-jtk-manual-002
+2020-11-05T18:49:06.7986477+00:00,SpaceDotNet.AspNetCore,1.0.0-beta.443
+2020-11-05T18:49:06.7986477+00:00,SpaceDotNet.AspNetCore.Authentication.Space,1.0.0-beta.443
+2020-11-05T18:49:06.7986477+00:00,SpaceDotNet.Client,1.0.0-beta.443
+2020-11-05T18:49:06.7986477+00:00,SpaceDotNet.Common,1.0.0-beta.443
