@@ -12703,3 +12703,4 @@ CommitTimestamp,Id,Version
 2020-11-19T13:53:38.7000717+00:00,SubscriptionWidgetHelper,2.0.0
 2020-11-19T14:30:18.6281641+00:00,Hbm.Ie.Api,0.9.6-beta
 2020-11-19T18:47:21.5140842+00:00,AzurePipelinesToGitHubActionsConverter.Core,0.0.0
+2020-11-20T04:54:14.7591532+00:00,SubscriptionWidgetTestHelperCore,1.0.0
