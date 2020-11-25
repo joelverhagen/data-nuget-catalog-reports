@@ -12715,3 +12715,8 @@ CommitTimestamp,Id,Version
 2020-11-24T21:41:17.3875186+00:00,CSI.Crosswalk.ApiClient,3.0.9
 2020-11-25T08:54:14.8066534+00:00,MilestoneSystems.VideoOS.Platform,20.3.0
 2020-11-25T10:21:12.4114050+00:00,MilestoneSystems.VideoOS.Platform.SDK,20.3.0
+2020-11-25T10:24:19.6491327+00:00,MilestoneSystems.VideoOS.Platform.SDK.Debug,20.3.0
+2020-11-25T10:26:01.4321850+00:00,MilestoneSystems.VideoOS.Platform.AccessControl,20.3.0
+2020-11-25T10:26:36.1516651+00:00,MilestoneSystems.VideoOS.Platform.DriverFramework,20.3.0
+2020-11-25T10:26:36.1516651+00:00,MilestoneSystems.VideoOS.Platform.Transact,20.3.0
+2020-11-25T10:27:28.2306599+00:00,MilestoneSystems.VideoOS.ConfigurationAPI,20.3.0
