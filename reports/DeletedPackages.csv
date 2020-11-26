@@ -12720,3 +12720,6 @@ CommitTimestamp,Id,Version
 2020-11-25T10:26:36.1516651+00:00,MilestoneSystems.VideoOS.Platform.DriverFramework,20.3.0
 2020-11-25T10:26:36.1516651+00:00,MilestoneSystems.VideoOS.Platform.Transact,20.3.0
 2020-11-25T10:27:28.2306599+00:00,MilestoneSystems.VideoOS.ConfigurationAPI,20.3.0
+2020-11-26T23:04:52.8227055+00:00,PlainConsoleFormatter,5.0.0
+2020-11-26T23:04:52.8227055+00:00,PlainConsoleFormatter,5.0.1
+2020-11-26T23:04:52.8227055+00:00,PlainConsoleFormatter,5.0.2
