@@ -12782,3 +12782,9 @@ CommitTimestamp,Id,Version
 2020-12-04T19:11:49.1904611+00:00,Spire.Core.Sessions.Abstractions,0.9.0
 2020-12-07T01:58:09.0021819+00:00,v3,0.0.1
 2020-12-07T11:20:56.4602537+00:00,Packt.CSdotnet.SharedLibrary.CX64,5.0.0
+2020-12-07T14:30:03.2409036+00:00,Microsoft.CommonDataModel.ObjectModel,0.0.11
+2020-12-07T14:31:05.6951731+00:00,Microsoft.CommonDataModel.ObjectModel.Persistence.Odi.All,0.0.11
+2020-12-07T14:32:18.9777739+00:00,Microsoft.CommonDataModel.ObjectModel.Adapter.Adls,0.0.11
+2020-12-07T14:32:54.3846720+00:00,Microsoft.CommonDataModel.ObjectModel.Adapter.Adls.All,0.0.11
+2020-12-07T14:33:28.4477898+00:00,Microsoft.CommonDataModel.ObjectModel.All,0.0.11
+2020-12-07T14:34:08.9954111+00:00,Microsoft.CommonDataModel.ObjectModel.Persistence.Odi,0.0.11
