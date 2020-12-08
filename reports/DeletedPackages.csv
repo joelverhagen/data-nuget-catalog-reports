@@ -12788,3 +12788,4 @@ CommitTimestamp,Id,Version
 2020-12-07T14:32:54.3846720+00:00,Microsoft.CommonDataModel.ObjectModel.Adapter.Adls.All,0.0.11
 2020-12-07T14:33:28.4477898+00:00,Microsoft.CommonDataModel.ObjectModel.All,0.0.11
 2020-12-07T14:34:08.9954111+00:00,Microsoft.CommonDataModel.ObjectModel.Persistence.Odi,0.0.11
+2020-12-08T21:50:06.8136024+00:00,TestCentric.GuiRunner,1.5.0
