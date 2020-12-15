@@ -13187,3 +13187,16 @@ CommitTimestamp,Id,Version
 2020-12-14T18:01:44.5663236+00:00,Wei.AlipaySDK,1.0.1
 2020-12-14T22:13:38.3694359+00:00,Phimath.Telemetry,1.0.0
 2020-12-14T22:19:54.4700955+00:00,Phimath.Telemetry,1.0.0
+2020-12-15T13:38:56.8546457+00:00,Inxton.Package.Vortex.Ultimate.Wpf,1.9.1-preview.1
+2020-12-15T13:39:33.2771818+00:00,Inxton.Package.Vortex.Advanced,1.9.1-preview.1
+2020-12-15T13:39:33.2771818+00:00,Inxton.Package.Vortex.Ultimate,1.9.1-preview.1
+2020-12-15T13:39:52.8869092+00:00,Inxton.Package.Vortex.Advanced.Wpf,1.9.1-preview.1
+2020-12-15T13:40:50.1379603+00:00,Inxton.Vortex.Framework.Data,1.9.1-preview.1
+2020-12-15T13:41:27.9042954+00:00,Inxton.Vortex.Framework.Data.InMemory,1.9.1-preview.1
+2020-12-15T13:41:27.9042954+00:00,Inxton.VortexCoordinationConnector,1.9.1-preview.1
+2020-12-15T13:41:27.9042954+00:00,Inxton.VortexDataConnector,1.9.1-preview.1
+2020-12-15T13:41:27.9042954+00:00,Vortex.Presentation.WinForms,1.9.1-preview.1
+2020-12-15T13:42:08.2956553+00:00,Inxton.Vortex.Framework.Data.Wpf,1.9.1-preview.1
+2020-12-15T13:42:08.2956553+00:00,Inxton.VortexBaseConnector,1.9.1-preview.1
+2020-12-15T13:42:08.2956553+00:00,Inxton.VortexCoordination.Wpf,1.9.1-preview.1
+2020-12-15T13:42:45.5619569+00:00,Inxton.VortexBase.Wpf,1.9.1-preview.1
