@@ -13202,3 +13202,6 @@ CommitTimestamp,Id,Version
 2020-12-15T13:42:45.5619569+00:00,Inxton.VortexBase.Wpf,1.9.1-preview.1
 2020-12-15T23:15:01.4767827+00:00,Coder.Data,1.0.0
 2020-12-15T23:16:34.3534709+00:00,Coder.Interpreter,0.5.0
+2020-12-17T16:19:42.2999717+00:00,DownloadArtifacts,1.0.2
+2020-12-17T16:20:20.4256719+00:00,DownloadArtifacts,1.0.0
+2020-12-17T16:20:20.4256719+00:00,DownloadArtifacts,1.0.1
