@@ -13807,3 +13807,17 @@ CommitTimestamp,Id,Version
 2021-02-17T18:50:39.4926487+00:00,AppAny.HotChocolate.FluentValidation,1.0.0
 2021-02-18T10:14:40.1266132+00:00,NL_Vincent_CheckWarrantyHours_Performer,1.0.5
 2021-02-18T12:20:40.7962211+00:00,Cake.Sitecore.Receipt,1.0.40
+2021-02-18T20:22:40.3666091+00:00,FabDbg,7.2.457
+2021-02-18T20:22:40.3666091+00:00,KTLExt.retail,7.2.457.9590
+2021-02-18T20:23:18.9452800+00:00,ServiceFabric.AutopilotBootstrap,7.2.457-internal
+2021-02-18T20:23:18.9452800+00:00,ServiceFabricExplorer,4.2.457
+2021-02-18T20:23:58.9147311+00:00,ServiceFabric.AutopilotIS,7.2.457-internal
+2021-02-18T20:24:20.7588750+00:00,ServiceFabric.AzureClusterDeployer,7.2.457-internal
+2021-02-18T20:24:42.6967570+00:00,ServiceFabric.AzureSDKPlugin,7.2.457-internal
+2021-02-18T20:25:24.1975167+00:00,ServiceFabric.ClientPackage,7.2.457-internal
+2021-02-18T20:25:24.1975167+00:00,ServiceFabric.NativeLibsHeaders.retail,7.2.457-internal
+2021-02-18T20:25:24.1975167+00:00,ServiceFabric.NativeSDK,7.2.457-internal
+2021-02-18T20:26:12.5265202+00:00,ServiceFabric.RepairPolicyEngine,7.2.457-internal
+2021-02-18T20:26:12.5265202+00:00,ServiceFabric.TestFramework,7.2.457-internal
+2021-02-18T20:26:12.5265202+00:00,ServiceFabric.Tools,7.2.457-internal
+2021-02-18T20:26:53.9022634+00:00,ServiceFabric.XCopyPackage,7.2.457-internal
