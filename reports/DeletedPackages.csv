@@ -13854,3 +13854,6 @@ CommitTimestamp,Id,Version
 2021-03-04T02:38:40.4954316+00:00,Rock.Common.Mobile,0.3.12
 2021-03-04T02:39:17.1054666+00:00,Rock.Common.Mobile,0.3.13
 2021-03-04T21:05:50.5130148+00:00,RemoteUnitTestExecutor,2.5.1
+2021-03-04T22:47:22.1360921+00:00,appinsights.testlogger,1.0.1
+2021-03-04T22:47:39.7457209+00:00,appinsights.testlogger,1.0.0
+2021-03-04T22:48:30.4653982+00:00,appinsights.testlogger,1.0.0.1
