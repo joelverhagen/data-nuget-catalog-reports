@@ -13859,3 +13859,5 @@ CommitTimestamp,Id,Version
 2021-03-04T22:48:30.4653982+00:00,appinsights.testlogger,1.0.0.1
 2021-03-05T16:06:56.0931880+00:00,Microsoft.VisualStudio.RemoteControl,16.3.32
 2021-03-05T22:14:56.0481245+00:00,DotnetModelFuzzer.Manipulations,0.1.1
+2021-03-06T03:37:17.6845198+00:00,VaultPlugin,1.0.1
+2021-03-06T03:37:38.0598772+00:00,VaultPlugin,1.0.0
