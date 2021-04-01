@@ -15509,3 +15509,5 @@ CommitTimestamp,Id,Version
 2021-03-30T18:50:35.6995543+00:00,Teltonika_TRB2_InputOutput,1.0.0
 2021-03-31T12:15:08.9081458+00:00,lousystems.SecurityEngine,1.0.2
 2021-03-31T12:29:12.2194547+00:00,lousystems.SecurityEngine,1.0.3
+2021-04-01T07:29:50.1247550+00:00,Opc.UaFx.Advanced,2.15.0
+2021-04-01T07:29:50.1247550+00:00,Opc.UaFx.Client,2.15.0
