@@ -15620,3 +15620,5 @@ CommitTimestamp,Id,Version
 2021-05-05T17:08:43.3412455+00:00,Toolbox.UnlistPackageTest,0.0.6
 2021-05-06T13:26:51.6705343+00:00,Pester,5.2.0
 2021-05-07T07:53:59.1065959+00:00,Violet.Swagger.Core,1.0.0
+2021-05-07T09:54:19.7819021+00:00,IesYazilim.Logo.DataType,0.0.3-beta
+2021-05-07T09:55:01.2357778+00:00,IesYazilim.Logo.DataType.Auditing,0.0.3-beta
