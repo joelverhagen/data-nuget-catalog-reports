@@ -15989,3 +15989,6 @@ CommitTimestamp,Id,Version
 2021-07-14T07:18:30.9338258+00:00,Rhetos.TemplaterReport,5.0.0-dev2103011715bfab050
 2021-07-14T07:19:12.8564628+00:00,Rhetos.TemplaterReport,2.0.0
 2021-07-14T09:46:24.5294286+00:00,ChordBook.Backend.Library,1.0.0
+2021-07-14T13:52:16.2137127+00:00,Microsoft.Azure.WebJobs.Script.Abstractions,1.0.2-preview
+2021-07-14T13:54:48.6383364+00:00,Microsoft.Azure.WebJobs.Script.Abstractions,1.0.2-preview
+2021-07-14T14:17:32.5527710+00:00,Microsoft.Azure.WebJobs.Script.Abstractions,1.0.2-preview
