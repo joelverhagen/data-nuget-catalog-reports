@@ -16064,3 +16064,13 @@ CommitTimestamp,Id,Version
 2021-07-31T13:23:27.5185661+00:00,VkNet.Extensions.Polling,0.1.1-prerelease
 2021-08-02T09:37:12.8888090+00:00,LinqToYourDoom.SourceGenerators,1.0.0
 2021-08-04T15:17:02.0998147+00:00,Hailify.gomo,1.0.0
+2021-08-06T05:36:15.5643479+00:00,dotnet-grpc,2.39.0-pre1
+2021-08-06T05:36:15.5643479+00:00,Grpc.AspNetCore,2.39.0-pre1
+2021-08-06T05:36:15.5643479+00:00,Grpc.AspNetCore.Server,2.39.0-pre1
+2021-08-06T05:36:15.5643479+00:00,Grpc.AspNetCore.Server.ClientFactory,2.39.0-pre1
+2021-08-06T05:36:15.5643479+00:00,Grpc.AspNetCore.Server.Reflection,2.39.0-pre1
+2021-08-06T05:37:01.2838235+00:00,Grpc.AspNetCore.Web,2.39.0-pre1
+2021-08-06T05:37:01.2838235+00:00,Grpc.Net.Client,2.39.0-pre1
+2021-08-06T05:37:01.2838235+00:00,Grpc.Net.Client.Web,2.39.0-pre1
+2021-08-06T05:37:01.2838235+00:00,Grpc.Net.ClientFactory,2.39.0-pre1
+2021-08-06T05:37:01.2838235+00:00,Grpc.Net.Common,2.39.0-pre1
