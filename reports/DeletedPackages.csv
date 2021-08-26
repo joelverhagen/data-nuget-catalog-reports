@@ -16132,3 +16132,5 @@ CommitTimestamp,Id,Version
 2021-08-25T21:13:13.6837035+00:00,OSIsoft.Models.AccessControl,4.0.6-prerelease-20210824.1
 2021-08-25T21:13:13.6837035+00:00,OSIsoft.Models.Management,4.0.6-prerelease-20210824.1
 2021-08-26T09:23:35.7435896+00:00,TesteLoggingZX,0.0.8
+2021-08-26T15:57:12.1635274+00:00,Google.Protobuf,3.18.0-rc1
+2021-08-26T15:57:52.0234225+00:00,Google.Protobuf.Tools,3.18.0-rc1
