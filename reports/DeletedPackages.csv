@@ -16153,3 +16153,6 @@ CommitTimestamp,Id,Version
 2021-09-10T18:22:13.4307147+00:00,embeddedLicenseFIle,1.1.1
 2021-09-13T12:42:20.6768018+00:00,Enbrea.Untis.Gpu,0.1.1
 2021-09-14T13:02:04.0802672+00:00,Edara.Client.Api,2.0.0
+2021-09-14T17:30:10.4317525+00:00,dotnet-aspnet-codegenerator,6.0.0-rc.1.21463.5
+2021-09-14T17:31:04.1983696+00:00,Microsoft.DotNet.Scaffolding.Shared,6.0.0-rc.1.21463.5
+2021-09-14T17:33:19.8257785+00:00,dotnet-aspnet-codegenerator,6.0.0-rc.1.21463.5
