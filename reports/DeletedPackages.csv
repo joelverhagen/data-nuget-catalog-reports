@@ -16329,3 +16329,9 @@ CommitTimestamp,Id,Version
 2021-11-09T19:44:39.2012975+00:00,JetBrains.Space.AspNetCore,1.0.0-beta.84506.9069
 2021-11-09T19:45:36.3429695+00:00,JetBrains.Space.AspNetCore.Authentication,1.0.0-beta.84506.9069
 2021-11-09T19:45:36.3429695+00:00,JetBrains.Space.Common,1.0.0-beta.84506.9069
+2021-11-09T23:47:34.9085860+00:00,NationalInstruments.SystemLink.Clients.AssetManagement,2.0.1
+2021-11-09T23:47:34.9085860+00:00,NationalInstruments.SystemLink.Clients.Core,1.1.3
+2021-11-09T23:48:02.5027306+00:00,NationalInstruments.SystemLink.Clients.File,1.0.7
+2021-11-09T23:48:02.5027306+00:00,NationalInstruments.SystemLink.Clients.Message,1.0.6
+2021-11-09T23:48:02.5027306+00:00,NationalInstruments.SystemLink.Clients.Tag,1.0.7
+2021-11-09T23:48:02.5027306+00:00,NationalInstruments.SystemLink.Clients.TestMonitor,2.1.5
