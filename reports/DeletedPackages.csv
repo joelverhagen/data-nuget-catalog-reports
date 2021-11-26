@@ -16454,3 +16454,6 @@ CommitTimestamp,Id,Version
 2021-11-26T13:07:02.3308886+00:00,Parlem.Apigateway.Commands,1.0.0
 2021-11-26T13:07:02.3308886+00:00,Parlem.Apigateway.Domain,1.0.0
 2021-11-26T13:07:02.3308886+00:00,Parlem.Apigateway.Infrastructure,1.0.0
+2021-11-26T16:13:07.1597192+00:00,Jimlicat.Extensions.BCL,1.0.0-preview.1
+2021-11-26T16:13:55.3168375+00:00,Jimlicat.Extensions.EFCoreRelational,1.0.0-preview.1
+2021-11-26T16:13:55.3168375+00:00,Jimlicat.Extensions.OpenXml,1.0.0-preview.1
