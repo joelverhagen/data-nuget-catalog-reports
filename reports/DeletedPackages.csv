@@ -16450,3 +16450,7 @@ CommitTimestamp,Id,Version
 2021-11-25T08:30:13.5040465+00:00,AuthoBson.Messaging,1.1.3
 2021-11-25T08:30:13.5040465+00:00,AuthoBson.Shared,1.1.3
 2021-11-26T00:07:00.2556728+00:00,postcodeapi.net,0.0.0.1-local
+2021-11-26T13:06:17.6581947+00:00,Parlem.Apigateway.Services,1.0.0
+2021-11-26T13:07:02.3308886+00:00,Parlem.Apigateway.Commands,1.0.0
+2021-11-26T13:07:02.3308886+00:00,Parlem.Apigateway.Domain,1.0.0
+2021-11-26T13:07:02.3308886+00:00,Parlem.Apigateway.Infrastructure,1.0.0
