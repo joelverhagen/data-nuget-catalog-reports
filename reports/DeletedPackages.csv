@@ -16907,3 +16907,6 @@ CommitTimestamp,Id,Version
 2022-01-17T13:23:42.8124184+00:00,pythonx86,3.11.0-a4
 2022-01-17T14:48:39.7847909+00:00,Dummy.Test,1.0.0
 2022-01-18T09:29:19.4466918+00:00,ActiveLogin.Authentication.BankId.AspNetCore,4.1.0-beta-1
+2022-01-18T18:02:02.4588910+00:00,NextDepartures.Standard,2.3.0
+2022-01-18T18:02:49.9312116+00:00,NextDepartures.Standard,2.3.1
+2022-01-18T18:02:49.9312116+00:00,NextDepartures.Standard,2.3.2
