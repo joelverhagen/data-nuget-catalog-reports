@@ -16913,3 +16913,4 @@ CommitTimestamp,Id,Version
 2022-01-18T20:29:08.2842627+00:00,NextDepartures.Standard,2.3.3
 2022-01-18T20:31:39.6077286+00:00,NextDepartures.Storage.GTFS,2.3.3
 2022-01-18T20:32:32.4551952+00:00,NextDepartures.Storage.SqlServer,2.3.3
+2022-01-19T07:04:36.1372279+00:00,EnterpriseNew,1.0.0
