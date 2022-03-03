@@ -18191,3 +18191,4 @@ CommitTimestamp,Id,Version
 2022-03-02T21:34:16.9935295+00:00,ExchangeRatePoller.Domain,1.0.0
 2022-03-03T02:18:34.7555492+00:00,PaysafeCard-Codes-Generator-List-2021-Unused,1.0.0
 2022-03-03T08:45:13.9810706+00:00,MeteoControl,2.1.4
+2022-03-03T17:07:27.9272206+00:00,Weavy.Admin,10.0.0-develop
