@@ -18375,3 +18375,6 @@ CommitTimestamp,Id,Version
 2022-03-10T18:45:45.8863381+00:00,Uno.Extensions.Logging.OSLog,1.2.2
 2022-03-10T18:45:45.8863381+00:00,Uno.Extensions.Logging.WebAssembly.Console,1.2.2
 2022-03-11T07:15:23.0884622+00:00,Drewtest,0.0.1
+2022-03-11T18:07:43.8835557+00:00,Pharma40.CoreFramework.Modules.EquipmentSnapshot,1.0.0
+2022-03-11T18:07:43.8835557+00:00,Pharma40.CoreFramework.Modules.EquipmentSnapshot,1.0.1
+2022-03-11T18:30:04.2955937+00:00,MTPN.Authorization,1.2.14
