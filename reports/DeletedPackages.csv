@@ -18722,3 +18722,4 @@ CommitTimestamp,Id,Version
 2022-05-10T10:59:34.2437835+00:00,SIR.Json,0.9.0-beta
 2022-05-10T11:06:36.7605443+00:00,SIR.Json,0.9.0-beta
 2022-05-11T09:46:41.2569202+00:00,Roxane.Mag.Client.Gateway.Abstraction,1.0.0
+2022-05-11T16:11:27.2636051+00:00,Microsoft.Azure.WebJobs.Extensions.Kafka,3.3.3
