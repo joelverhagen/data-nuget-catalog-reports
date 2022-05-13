@@ -18728,3 +18728,5 @@ CommitTimestamp,Id,Version
 2022-05-12T18:40:12.5810812+00:00,Vitvov.SQLiteMigrations,1.0.0
 2022-05-13T16:44:11.9100536+00:00,Sweetener.Extensions.Configuration,6.0.0-alpha.1
 2022-05-13T17:15:58.2727770+00:00,Syccure.DotnetAuthorization,0.1.0
+2022-05-13T19:34:25.6742072+00:00,WeakMemoryCache,1.0.1
+2022-05-13T19:35:09.4431687+00:00,WeakMemoryCache,1.0.0
