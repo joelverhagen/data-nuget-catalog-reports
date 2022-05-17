@@ -18748,3 +18748,9 @@ CommitTimestamp,Id,Version
 2022-05-17T19:15:10.9531953+00:00,uBeac.Core.Identity.Authentication,0.21.0
 2022-05-17T19:16:29.4118402+00:00,uBeac.Core.Identity.Jwt,0.21.0
 2022-05-17T19:17:39.2448987+00:00,uBeac.Core.Interception.Abstractions,0.1.0
+2022-05-17T19:30:45.5855567+00:00,uBeac.Core.Logging,0.1.0
+2022-05-17T19:31:31.5421693+00:00,uBeac.Core.Logging.MongoDB,0.1.0
+2022-05-17T19:32:50.9386384+00:00,uBeac.Core.Services.Abstractions,0.1.0
+2022-05-17T19:33:35.3324404+00:00,uBeac.Core.Web.Common,0.1.0
+2022-05-17T19:34:00.7404584+00:00,uBeac.Core.Web.Logging,0.1.0
+2022-05-17T19:56:05.8803800+00:00,qidong5566.MultiVersion,1.0.0
