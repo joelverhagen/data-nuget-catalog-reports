@@ -18822,3 +18822,5 @@ CommitTimestamp,Id,Version
 2022-05-21T13:57:39.3748402+00:00,FarmlyCore.SDK,1.0.0
 2022-05-21T14:52:11.9957386+00:00,CodePant.DotNet.Helper,1.0.0
 2022-05-24T13:38:13.1563766+00:00,ScriptureReferenceParser,1.0.0
+2022-05-26T21:59:47.8625397+00:00,Leasing.Microservice.Templates,1.0.0
+2022-05-26T22:18:17.1806678+00:00,Loop8ack.AsyncTicketLock,1.0.0
