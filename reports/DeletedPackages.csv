@@ -18829,3 +18829,5 @@ CommitTimestamp,Id,Version
 2022-05-29T11:02:28.7042129+00:00,Yella.Core.Aspect,1.0.2
 2022-05-29T11:03:28.7709483+00:00,Yella.Core.Aspect,1.0.1
 2022-05-29T11:03:55.8822079+00:00,Yella.Core.Aspect,1.0.0.1
+2022-05-29T11:27:55.0319161+00:00,Yella.Core.Identity.Domain,1.0.1
+2022-05-29T11:28:36.1130533+00:00,Yella.Core.IdentityService,1.0.1
