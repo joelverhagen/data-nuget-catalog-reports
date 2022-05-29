@@ -18826,3 +18826,6 @@ CommitTimestamp,Id,Version
 2022-05-26T22:18:17.1806678+00:00,Loop8ack.AsyncTicketLock,1.0.0
 2022-05-27T03:30:47.0219931+00:00,CodePant.DotNet.Helper.Email,1.0.0
 2022-05-27T18:00:07.9599606+00:00,Date-Taken-Extractor,1.0.0
+2022-05-29T11:02:28.7042129+00:00,Yella.Core.Aspect,1.0.2
+2022-05-29T11:03:28.7709483+00:00,Yella.Core.Aspect,1.0.1
+2022-05-29T11:03:55.8822079+00:00,Yella.Core.Aspect,1.0.0.1
