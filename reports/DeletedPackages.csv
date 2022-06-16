@@ -18905,3 +18905,8 @@ CommitTimestamp,Id,Version
 2022-06-14T06:04:52.5540676+00:00,coin-master-free-5000-spins,1.0.0
 2022-06-14T06:04:52.5540676+00:00,coin-master-free-5000-spins,1.1.12
 2022-06-14T06:04:52.5540676+00:00,free-no-verification-robux-generator-2022-v8726,1.1.9140
+2022-06-16T14:39:04.5259886+00:00,Microstorage.Contract,1.0.0
+2022-06-16T14:40:05.3900017+00:00,Microstorage.Common,1.0.0
+2022-06-16T14:40:05.3900017+00:00,Microstorage.Memory,1.0.0
+2022-06-16T14:40:05.3900017+00:00,Microstorage.Storage,1.0.0
+2022-06-16T14:41:08.3166682+00:00,Microstorage.Storage.Common,1.0.0
