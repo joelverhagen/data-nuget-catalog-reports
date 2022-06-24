@@ -18950,3 +18950,10 @@ CommitTimestamp,Id,Version
 2022-06-23T16:03:39.5876800+00:00,Beckhoff.TwinCAT.Ads.SymbolicServer,6.0.155
 2022-06-23T16:03:39.5876800+00:00,Beckhoff.TwinCAT.Ads.TcpRouter,6.0.155
 2022-06-23T19:14:18.6054774+00:00,IBaaS.Core.Asset,1.0.2
+2022-06-24T01:39:38.8072841+00:00,adamdotai.SharedKernel,1.0.0
+2022-06-24T01:39:38.8072841+00:00,adamdotai.SharedKernel,1.0.1
+2022-06-24T01:39:38.8072841+00:00,adamdotai.SharedKernel,1.0.2
+2022-06-24T01:39:38.8072841+00:00,adamdotai.SharedKernel,1.0.3
+2022-06-24T01:39:38.8072841+00:00,adamdotai.SharedKernel,1.0.5
+2022-06-24T01:39:38.8072841+00:00,adamdotai.SharedKernel,1.0.6
+2022-06-24T01:39:38.8072841+00:00,adamdotai.SharedKernel,1.0.7
