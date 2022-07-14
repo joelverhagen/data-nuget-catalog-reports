@@ -18993,3 +18993,6 @@ CommitTimestamp,Id,Version
 2022-07-12T12:50:22.9072502+00:00,NuGetOrg_Upload_Test_signed,1.0.0-pre20220711083715
 2022-07-13T11:05:29.6021898+00:00,Basler.Pylon.NET.x64,7.1.0.19126
 2022-07-13T19:48:55.8372665+00:00,LinqLoader.Net,1.0.0
+2022-07-14T20:41:02.6949070+00:00,sdl2_mixer.nuget.redist,2.6.0
+2022-07-14T20:41:02.6949070+00:00,sdl2_ttf.nuget.redist,2.20.0
+2022-07-14T20:41:54.3863481+00:00,sdl2_image.nuget.redist,2.6.0
