@@ -18999,3 +18999,9 @@ CommitTimestamp,Id,Version
 2022-07-15T06:04:25.1322058+00:00,FaucetPayAPI,1.0.1
 2022-07-15T11:38:08.4637941+00:00,sitetrackpro-shared,1.0.0
 2022-07-15T20:24:35.7082709+00:00,ReadLine.Reboot,3.3.0
+2022-07-15T22:04:47.1941709+00:00,Telerik.Reporting,13.2.19.1004-hotfix
+2022-07-15T22:04:47.1941709+00:00,Telerik.Reporting,13.2.19.1030
+2022-07-15T22:04:47.1941709+00:00,Telerik.Reporting.OpenXmlRendering,13.2.19.1004-hotfix
+2022-07-15T22:04:47.1941709+00:00,Telerik.Reporting.OpenXmlRendering,13.2.19.1030
+2022-07-15T22:04:47.1941709+00:00,Telerik.Reporting.WebServiceDataSource,13.2.19.1004-hotfix
+2022-07-15T22:04:47.1941709+00:00,Telerik.Reporting.WebServiceDataSource,13.2.19.1030
