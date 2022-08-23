@@ -19663,3 +19663,7 @@ CommitTimestamp,Id,Version
 2022-08-21T20:32:06.0131282+00:00,Certify.Assessment.Delivery,1.0.0
 2022-08-22T14:00:30.9347168+00:00,DroneDelivery.Common,1.0.0
 2022-08-22T20:30:28.6765993+00:00,Dorssel.Security.Cryptography.AesExtra,1.0.0
+2022-08-23T02:23:39.3616104+00:00,DependencyExtractor,1.0.0
+2022-08-23T02:23:39.3616104+00:00,DependencyExtractor,1.0.1
+2022-08-23T02:23:39.3616104+00:00,DependencyExtractor,1.0.2
+2022-08-23T02:23:39.3616104+00:00,DependencyExtractor,1.0.3
