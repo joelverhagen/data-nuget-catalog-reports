@@ -19782,3 +19782,6 @@ CommitTimestamp,Id,Version
 2022-09-19T07:14:16.8055657+00:00,MintPlayer.ObservableCollection.Test,1.0.0
 2022-09-20T13:44:34.6090684+00:00,DocuwarePlatformLibraryCore,2.4.1
 2022-09-21T22:41:52.9292820+00:00,Configet.Sdk,1.0.0
+2022-09-23T10:14:06.9343398+00:00,ED_DatabaseContexts,1.0.1
+2022-09-23T10:20:21.8378352+00:00,IBMXMSDotnetClient,9.3.0.1
+2022-09-23T10:23:48.3222106+00:00,ED_DatabaseContexts,1.0.0
