@@ -19787,3 +19787,7 @@ CommitTimestamp,Id,Version
 2022-09-23T10:23:48.3222106+00:00,ED_DatabaseContexts,1.0.0
 2022-09-23T14:30:44.1708906+00:00,STB.MULTI.Tester.TataCommunicationProtocol.Library,1.0.2
 2022-09-24T14:52:19.3300136+00:00,XrmToolBoxPackage,1.2022.9.57
+2022-09-26T15:39:36.1024325+00:00,Material.Avalonia,3.0.0-avalonia10-preview3.109-nightly
+2022-09-26T15:44:57.0330347+00:00,intelipp.devel.win-x64,2021.6.1.8804
+2022-09-26T16:07:34.1823454+00:00,intelopenmp.devel.linux,2022.2.0.8734
+2022-09-26T16:10:30.4291585+00:00,intelopenmp.devel.linux,2022.2.0.8734
