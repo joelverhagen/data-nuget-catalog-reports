@@ -19881,3 +19881,8 @@ CommitTimestamp,Id,Version
 2022-09-30T18:42:14.0291315+00:00,Microsoft.Restier.EntityFramework,1.0.0-rc9.20220930.1
 2022-09-30T18:42:14.0291315+00:00,Microsoft.Restier.EntityFrameworkCore,1.0.0-rc9.20220930.1
 2022-09-30T21:21:35.3729073+00:00,com.nate.BraveHaxvius,74.733.3.1
+2022-09-30T21:34:12.7262272+00:00,MQTTnet.Extensions.MultiCloud,0.4.15
+2022-09-30T21:34:12.7262272+00:00,MQTTnet.Extensions.MultiCloud.AwsIoTClient,0.4.15
+2022-09-30T21:35:07.0115543+00:00,MQTTnet.Extensions.MultiCloud.AzureIoTClient,0.4.15
+2022-09-30T21:35:07.0115543+00:00,MQTTnet.Extensions.MultiCloud.BrokerIoTClient,0.4.15
+2022-09-30T21:40:02.8462966+00:00,XyloCode.BusinessData,1.0.1
