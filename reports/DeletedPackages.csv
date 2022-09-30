@@ -19874,3 +19874,9 @@ CommitTimestamp,Id,Version
 2022-09-29T07:48:13.5983895+00:00,XyloCode.BusinessData,1.0.0
 2022-09-30T06:12:03.8510013+00:00,Indorsoft-YandexSmartCaptcha,0.0.1
 2022-09-30T06:13:03.3398665+00:00,Indorsoft-SmartCaptcha-AspNetCore,0.0.1
+2022-09-30T18:41:45.1050713+00:00,Microsoft.Restier.AspNet,1.0.0-rc9.20220930.1
+2022-09-30T18:41:45.1050713+00:00,Microsoft.Restier.AspNetCore,1.0.0-rc9.20220930.1
+2022-09-30T18:41:45.1050713+00:00,Microsoft.Restier.Breakdance,1.0.0-rc9.20220930.1
+2022-09-30T18:42:14.0291315+00:00,Microsoft.Restier.Core,1.0.0-rc9.20220930.1
+2022-09-30T18:42:14.0291315+00:00,Microsoft.Restier.EntityFramework,1.0.0-rc9.20220930.1
+2022-09-30T18:42:14.0291315+00:00,Microsoft.Restier.EntityFrameworkCore,1.0.0-rc9.20220930.1
