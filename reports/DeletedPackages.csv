@@ -19886,3 +19886,7 @@ CommitTimestamp,Id,Version
 2022-09-30T21:35:07.0115543+00:00,MQTTnet.Extensions.MultiCloud.AzureIoTClient,0.4.15
 2022-09-30T21:35:07.0115543+00:00,MQTTnet.Extensions.MultiCloud.BrokerIoTClient,0.4.15
 2022-09-30T21:40:02.8462966+00:00,XyloCode.BusinessData,1.0.1
+2022-10-01T00:38:14.9163628+00:00,MQTTnet.Extensions.MultiCloud.BrokerIoTClient,0.4.16
+2022-10-01T00:39:15.6709298+00:00,MQTTnet.Extensions.MultiCloud,0.4.16
+2022-10-01T00:39:15.6709298+00:00,MQTTnet.Extensions.MultiCloud.AwsIoTClient,0.4.16
+2022-10-01T00:40:09.8468827+00:00,MQTTnet.Extensions.MultiCloud.AzureIoTClient,0.4.16
