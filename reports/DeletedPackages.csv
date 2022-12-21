@@ -20318,3 +20318,7 @@ CommitTimestamp,Id,Version
 2022-12-19T04:56:58.7902322+00:00,CH.Lib.AppsCore,6.22.12.19
 2022-12-19T04:57:27.9486291+00:00,CH.Lib.SubStubs,6.22.12.19
 2022-12-19T22:24:03.5092129+00:00,Microsoft.AspNetCore.OData.NewtonsoftJson,8.0.12
+2022-12-21T15:56:31.3573426+00:00,Hl7.Fhir.Specification.R4,5.0.0-beta1
+2022-12-21T15:56:31.3573426+00:00,Hl7.Fhir.Specification.R4B,5.0.0-beta1
+2022-12-21T15:56:31.3573426+00:00,Hl7.Fhir.Specification.R5,5.0.0-beta1
+2022-12-21T15:56:31.3573426+00:00,Hl7.Fhir.Specification.STU3,5.0.0-beta1
