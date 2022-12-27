@@ -20340,3 +20340,10 @@ CommitTimestamp,Id,Version
 2022-12-26T11:20:20.4869664+00:00,PayGateNext.OpenTelemetry,1.0.5
 2022-12-26T11:23:28.3693536+00:00,PayGateNext.Core,1.0.10
 2022-12-27T07:41:04.9088592+00:00,CucurbIT.Infrastructure.Api,6.0.22360.1837
+2022-12-27T14:31:53.2141889+00:00,SlotReservationPlatform_Common,60.0.0
+2022-12-27T14:32:17.9189216+00:00,SlotReservationPlatform.Common,1.62.0
+2022-12-27T14:33:48.0197010+00:00,SlotReservationPlatform_Common,59.0.0
+2022-12-27T14:33:48.0197010+00:00,SlotReservationPlatform.Common,1.0.70
+2022-12-27T14:34:34.8214708+00:00,SlotReservationPlatform_Common,57.0.0
+2022-12-27T14:34:34.8214708+00:00,SlotReservationPlatform.Common,1.0.64
+2022-12-27T14:35:01.1055464+00:00,SlotReservationPlatform.Common,1.0.63
