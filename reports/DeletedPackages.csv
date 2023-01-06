@@ -20498,3 +20498,5 @@ CommitTimestamp,Id,Version
 2023-01-04T21:49:56.6802439+00:00,CodeRabbits.Serialization,0.0.3
 2023-01-05T14:14:28.4164188+00:00,Managed.Windows.Core,7.0.3
 2023-01-05T14:14:28.4164188+00:00,TextCopy.Net,6.2.1
+2023-01-06T05:53:00.9198827+00:00,Diligent-SharpGenTools.Sdk,2.0.0-beta.12-local
+2023-01-06T05:53:57.5022111+00:00,Diligent-SharpGen.Runtime,2.0.0-beta.12-local
