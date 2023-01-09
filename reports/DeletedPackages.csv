@@ -20506,3 +20506,7 @@ CommitTimestamp,Id,Version
 2023-01-09T19:38:22.4620188+00:00,EnqueueIt,0.1.2-preview
 2023-01-09T19:47:23.8302757+00:00,EnqueueIt,0.1.2-preview
 2023-01-09T20:19:46.1210872+00:00,EnqueueIt,0.1.2-preview
+2023-01-09T20:27:24.3176202+00:00,idunno.Authentication.Basic,2.3.0
+2023-01-09T20:27:24.3176202+00:00,idunno.Authentication.Certificate,2.3.0
+2023-01-09T20:28:18.4338190+00:00,idunno.Authentication.SharedKey,2.3.0
+2023-01-09T21:08:08.5162986+00:00,EnqueueIt,0.1.2-preview
