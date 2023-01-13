@@ -20512,3 +20512,5 @@ CommitTimestamp,Id,Version
 2023-01-09T21:08:08.5162986+00:00,EnqueueIt,0.1.2-preview
 2023-01-10T10:34:08.2873616+00:00,ETCSModularDataParser,1.0.1
 2023-01-13T10:04:44.0737995+00:00,VCTR.Components.CRUD,1.0.0
+2023-01-13T12:57:54.5028997+00:00,MilestoneSystems.VideoOS.Platform.SDK.Debug,22.3.2
+2023-01-13T12:59:57.1159517+00:00,MilestoneSystems.VideoOS.Platform.SDK,22.3.2
