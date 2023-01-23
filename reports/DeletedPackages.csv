@@ -20544,3 +20544,5 @@ CommitTimestamp,Id,Version
 2023-01-19T05:41:32.5162273+00:00,Aurigma.AccountingService.Tracing.Producers,1.0.10.13287
 2023-01-19T05:50:11.5860154+00:00,Aurigma.AccountingService.Tracing.Producers,1.1.9.14510
 2023-01-23T13:32:39.7125202+00:00,AstonMartinGlobal.CoreApps.IdentityModels,1.0.0
+2023-01-23T14:25:22.7756348+00:00,MilestoneSystems.VideoOS.Platform.SDK,22.3.2
+2023-01-23T14:28:48.2467194+00:00,MilestoneSystems.VideoOS.Platform.SDK.Debug,22.3.2
