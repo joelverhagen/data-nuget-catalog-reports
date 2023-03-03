@@ -20806,3 +20806,5 @@ CommitTimestamp,Id,Version
 2023-03-02T08:21:31.6330307+00:00,Yoctopuce.YoctoLib,1.10.53327
 2023-03-03T13:51:55.8934946+00:00,Epinova.ElasticSearch.TestData,0.5.1
 2023-03-03T19:51:57.1487943+00:00,Wave.Box.Linq,1.0.0
+2023-03-03T21:51:00.5814620+00:00,PSC.Blazor.Components.Chartjs.AdditionalPlugins,1.0.1
+2023-03-03T21:51:00.5814620+00:00,PSC.Blazor.Components.Chartjs.AdditionalPlugins,1.0.2
