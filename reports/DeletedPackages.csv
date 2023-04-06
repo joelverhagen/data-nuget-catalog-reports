@@ -21046,3 +21046,6 @@ CommitTimestamp,Id,Version
 2023-04-05T07:43:37.3330290+00:00,PlatformXYZ,2023.4.4.93915
 2023-04-05T07:52:54.4425511+00:00,MechStressCore,2023.4.4.111024
 2023-04-06T08:43:19.3538283+00:00,Skyline.DataMiner.VodafoneKD.Logger,1.0.0.1
+2023-04-06T21:13:32.3897196+00:00,VictorKrogh.NET.Extensions.Disposable,1.0.0
+2023-04-06T21:14:35.4255112+00:00,VictorKrogh.NET.Extensions.Disposable,1.0.1
+2023-04-06T21:15:03.6774384+00:00,VictorKrogh.NET.Extensions.Disposable,1.0.2
