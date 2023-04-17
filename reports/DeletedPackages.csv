@@ -21070,3 +21070,11 @@ CommitTimestamp,Id,Version
 2023-04-11T10:45:20.4514107+00:00,CH.Lib.AppsCore,6.23.3.31
 2023-04-12T15:25:52.6321648+00:00,VictorKrogh.NET.Data.Extensions.Autofac,1.0.1
 2023-04-12T15:25:52.6321648+00:00,VictorKrogh.NET.Extensions.ServiceCollection,1.0.1
+2023-04-17T09:25:29.8124758+00:00,StarMicronics.StarIO.Desktop,2.9.0
+2023-04-17T09:33:59.4675547+00:00,StarMicronics.StarIO.Desktop,2.9.0
+2023-04-17T09:33:59.4675547+00:00,StarMicronics.StarIO.Desktop.StrongName,2.9.0
+2023-04-17T09:46:56.6126664+00:00,StarMicronics.StarIO.Desktop,2.9.0
+2023-04-17T09:49:09.9488024+00:00,StarMicronics.StarIO.Desktop,2.9.0
+2023-04-17T09:59:45.6919646+00:00,StarMicronics.StarIO.Desktop,2.9.0
+2023-04-17T10:17:25.4023818+00:00,DC.API.WCFBUG,1.0.0
+2023-04-17T10:18:13.2959410+00:00,Autodesk.DesktopConnector.API,7.3.2-alpha-00001
