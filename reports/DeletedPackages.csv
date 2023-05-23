@@ -21218,3 +21218,9 @@ CommitTimestamp,Id,Version
 2023-05-22T12:51:16.9144220+00:00,MVTec.HalconDotNet-Windows,23050.0.0
 2023-05-22T12:52:08.5737376+00:00,MVTec.HalconDotNetXL-Windows,23050.0.0
 2023-05-22T12:52:08.5737376+00:00,MVTec.HalconDotNetXL,23050.0.0
+2023-05-23T09:26:31.4357536+00:00,Epinova.Elasticsearch,0.5.11
+2023-05-23T09:26:31.4357536+00:00,Epinova.Elasticsearch,0.5.9
+2023-05-23T09:27:23.1575849+00:00,Epinova.Elasticsearch.Cms.Optimizely,0.5.11
+2023-05-23T09:28:12.8323857+00:00,Epinova.Elasticsearch.Cms.Optimizely,0.5.9
+2023-05-23T09:28:38.3652109+00:00,Epinova.Elasticsearch.Commerce.Optimizely,0.5.11
+2023-05-23T09:28:38.3652109+00:00,Epinova.Elasticsearch.Commerce.Optimizely,0.5.9
