@@ -21247,3 +21247,11 @@ CommitTimestamp,Id,Version
 2023-05-23T11:40:35.3309436+00:00,Epinova.Elasticsearch.Commerce.Optimizely,0.5.6
 2023-05-23T11:41:32.7250443+00:00,Epinova.Elasticsearch.Commerce.Optimizely,0.5.5
 2023-05-23T11:43:34.4666729+00:00,Epinova.Elasticsearch.Commerce.Optimizely,0.5.4
+2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNet.OData.Versioning,5.1.0
+2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNet.OData.Versioning.ApiExplorer,5.1.0
+2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNet.WebApi.Versioning,5.1.0
+2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNet.WebApi.Versioning.ApiExplorer,5.1.0
+2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNetCore.Mvc.Versioning,5.1.0
+2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer,5.1.0
+2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNetCore.OData.Versioning,5.1.0
+2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNetCore.OData.Versioning.ApiExplorer,5.1.0
