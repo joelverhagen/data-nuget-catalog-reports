@@ -21257,3 +21257,5 @@ CommitTimestamp,Id,Version
 2023-05-23T22:18:26.1543928+00:00,Microsoft.AspNetCore.OData.Versioning.ApiExplorer,5.1.0
 2023-05-23T23:54:53.3280966+00:00,Recur,0.2.0
 2023-05-24T10:02:37.0666175+00:00,DMWebDoku.Blazor.Components,1.0.0
+2023-05-26T09:39:09.7392327+00:00,DataDome.AspNetCore.Fraud.SDK,0.0.4
+2023-05-26T09:39:35.5371351+00:00,DataDome.AspNetCore.Fraud.SDK,1.0.0
