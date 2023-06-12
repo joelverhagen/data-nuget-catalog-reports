@@ -21464,3 +21464,7 @@ CommitTimestamp,Id,Version
 2023-06-09T16:35:14.0088418+00:00,DocumentFormat.OpenXml.Features,3.0.0-beta0002
 2023-06-09T16:35:14.0088418+00:00,DocumentFormat.OpenXml.Framework,3.0.0-beta0002
 2023-06-09T16:35:14.0088418+00:00,DocumentFormat.OpenXml.Linq,3.0.0-beta0002
+2023-06-11T23:37:12.9325822+00:00,SQLite.Enterprise.KeyManagement,1.0.118.0
+2023-06-11T23:37:12.9325822+00:00,Stub.System.Data.SQLite.EKM,1.0.118.0
+2023-06-11T23:38:03.5133203+00:00,Stub.System.Data.SQLite.EKM.NetFramework,1.0.118.0
+2023-06-11T23:38:03.5133203+00:00,Stub.System.Data.SQLite.EKM.NetStandard,1.0.118.0
