@@ -21582,3 +21582,7 @@ CommitTimestamp,Id,Version
 2023-07-05T08:18:25.3626097+00:00,Speechmatics,1.0.1
 2023-07-05T08:26:28.1203618+00:00,Speechmatics,1.0.1
 2023-07-06T12:00:35.0327924+00:00,ceTe.DynamicPDF.Printing.NET,4.20.0
+2023-07-06T21:16:45.8221724+00:00,Noda.Common.Repository,0.1.32-gc7a98621f9
+2023-07-06T21:18:36.4700993+00:00,Noda.Common.ServiceBus,0.2.12-gc7a98621f9
+2023-07-06T21:19:44.6308380+00:00,Noda.Common.ServiceBus.Abstractions,0.2.11-gc7a98621f9
+2023-07-06T21:19:44.6308380+00:00,Noda.Common.ServiceBus.Messages,0.2.12-gc7a98621f9
