@@ -21591,3 +21591,6 @@ CommitTimestamp,Id,Version
 2023-07-10T11:29:57.1832912+00:00,IndicinaDecideLibrary,0.0.0-alpha.0
 2023-07-10T17:18:59.2964141+00:00,Zills.Authentication.Hmac,1.0.1
 2023-07-10T17:20:08.1604127+00:00,Zsoft.Authentication.Hmac,1.0.1
+2023-07-11T08:57:12.0404943+00:00,Cover3D.API.Client,1.0.0
+2023-07-11T08:58:20.7169458+00:00,Cover3D.Catalog.Database.Core,1.0.0
+2023-07-11T08:58:20.7169458+00:00,Cover3D.XLS.Helper,1.0.0
