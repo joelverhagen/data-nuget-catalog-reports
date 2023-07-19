@@ -22685,3 +22685,4 @@ CommitTimestamp,Id,Version
 2023-07-18T13:25:35.1576600+00:00,MySql.EntityFrameworkCore,6.0.16
 2023-07-18T13:25:35.1576600+00:00,MySql.EntityFrameworkCore,7.0.5
 2023-07-18T13:25:35.1576600+00:00,MySql.Web,8.1.0
+2023-07-19T04:49:47.4307047+00:00,OutputLogic.Nucleus.SecurityClassification.HttpApi.Client,0.1.0
