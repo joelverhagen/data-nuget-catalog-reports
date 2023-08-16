@@ -22865,3 +22865,4 @@ CommitTimestamp,Id,Version
 2023-08-14T12:07:56.7734340+00:00,AksClusterUpgrade.CommandLine,0.1.0
 2023-08-14T13:42:21.5809999+00:00,Nethereum.DataServices,4.16.0
 2023-08-16T06:14:50.5279254+00:00,Eyes.Image.Core,3.9.0
+2023-08-16T07:14:44.0938015+00:00,Bulwark.Auth.Guard,1.0.0
