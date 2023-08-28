@@ -22883,3 +22883,5 @@ CommitTimestamp,Id,Version
 2023-08-24T12:23:35.9464247+00:00,Honeywell.SPS.Healthcare.MS.Interfaces.UserOrgManagement,1.16.0
 2023-08-24T18:55:16.3948403+00:00,Intel.Ccs.Client,0.0.0-rc
 2023-08-24T19:00:40.2331621+00:00,Intel.Ccs.Client,0.0.0-rc
+2023-08-28T05:11:55.8824477+00:00,Tao.Extras.Authentication.JwtBearer,1.0.0
+2023-08-28T05:12:50.6986632+00:00,Tao,1.0.0
