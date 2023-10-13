@@ -24148,3 +24148,5 @@ CommitTimestamp,Id,Version
 2023-10-12T21:39:43.8468856+00:00,Microsoft.Security.Copilot.SkillsetAuthoring,1.0.0-beta.1
 2023-10-13T01:21:51.5534413+00:00,Microsoft.WindowsPackageManager.InProcCom,1.6.2771
 2023-10-13T04:55:08.5022709+00:00,WolvenKit.Modkit,8.7.0-nightly.2022-09-27
+2023-10-13T07:06:44.1545496+00:00,OhmStudio.UI,1.0.3.2
+2023-10-13T07:07:40.5027085+00:00,OhmStudio.UI,1.0.3.3
