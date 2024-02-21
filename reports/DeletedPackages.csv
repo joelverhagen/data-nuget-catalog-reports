@@ -27428,3 +27428,8 @@ CommitTimestamp,Id,Version
 2024-02-20T21:56:48.4965692+00:00,coverlet.msbuild,6.0.1
 2024-02-20T21:57:52.7352993+00:00,coverlet.collector,6.0.1
 2024-02-21T04:28:34.3597305+00:00,EnqueueIt.SqlServer,0.1.5-beta
+2024-02-21T05:31:47.2505472+00:00,EnqueueIt.Sql,0.1.5-beta
+2024-02-21T05:37:29.3772001+00:00,EnqueueIt.Redis,0.1.5-beta
+2024-02-21T05:42:12.8179966+00:00,EnqueueIt.PostgreSQL,0.1.5-beta
+2024-02-21T06:04:26.3667335+00:00,EnqueueIt.MySql,0.1.5-beta
+2024-02-21T06:19:18.7892417+00:00,EnqueueIt.Dashboard,0.1.5-beta
