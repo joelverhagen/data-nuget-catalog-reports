@@ -27450,3 +27450,5 @@ CommitTimestamp,Id,Version
 2024-02-22T09:25:20.4812485+00:00,Coder-bsk.AssemblyTest1.csproj,2.0.0
 2024-02-22T09:25:20.4812485+00:00,Coder-bsk.Navisworks.Liby,1.0.0
 2024-02-23T10:33:54.9508314+00:00,PackageId.Dotnet.Core.24.01.18.001.Test,1.0.2
+2024-02-23T13:37:34.8256378+00:00,KeyValuePairStore,1.0.0
+2024-02-23T13:47:26.4901604+00:00,AerensStore.KeyValuePairStore,1.0.0-v0.0.2
