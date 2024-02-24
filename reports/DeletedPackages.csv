@@ -27452,3 +27452,4 @@ CommitTimestamp,Id,Version
 2024-02-23T10:33:54.9508314+00:00,PackageId.Dotnet.Core.24.01.18.001.Test,1.0.2
 2024-02-23T13:37:34.8256378+00:00,KeyValuePairStore,1.0.0
 2024-02-23T13:47:26.4901604+00:00,AerensStore.KeyValuePairStore,1.0.0-v0.0.2
+2024-02-24T00:39:03.2283962+00:00,JobManagementNodes,1.0.0
