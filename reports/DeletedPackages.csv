@@ -28124,3 +28124,5 @@ CommitTimestamp,Id,Version
 2024-03-12T09:32:36.0754150+00:00,Avira.Managed.Sdk,1.2403.927
 2024-03-12T09:51:00.9621169+00:00,Avira.Managed.Remediation,1.2403.1084
 2024-03-12T10:32:56.1029624+00:00,Avira.Managed.Endpoint.Protection.Client,1.2403.2141
+2024-03-12T11:50:14.1594230+00:00,Humanizer.Core.lb,3.0.0-beta.13
+2024-03-12T11:50:14.1594230+00:00,Humanizer.Core.lt,3.0.0-beta.13
