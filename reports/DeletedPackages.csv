@@ -29435,3 +29435,5 @@ CommitTimestamp,Id,Version
 2024-04-22T21:07:11.8143704+00:00,JsonWebToken.OAuth2,2.0.0-beta.54
 2024-04-22T21:08:10.2870254+00:00,JsonWebToken.SecurityEventTokens,2.0.0-beta.54
 2024-04-22T21:09:15.4632826+00:00,JsonWebToken.KeyVault,2.0.0-beta.54
+2024-04-23T06:07:54.4495346+00:00,LSEG.Eta.Dacs,7.12.1-beta.1
+2024-04-23T06:13:38.4413012+00:00,Microsoft.TeamsFx,2.4.1-rc
