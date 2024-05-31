@@ -30073,3 +30073,5 @@ CommitTimestamp,Id,Version
 2024-05-31T06:58:45.5585857+00:00,SS.Test.Pma.Api.Facilities,1.6.201
 2024-05-31T06:58:45.5585857+00:00,SS.Test.RabbitMQ.Publisher.Facilities,1.6.202
 2024-05-31T06:59:17.6055842+00:00,SS.Test.Udapi.Facilities,1.6.201
+2024-05-31T07:40:59.0141444+00:00,Linq.OpenJson.InClause.Middleware,1.0.14
+2024-05-31T07:43:47.0149433+00:00,Linq.OpenJson.InClause.Middleware,1.0.15
