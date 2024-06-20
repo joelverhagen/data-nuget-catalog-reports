@@ -30346,3 +30346,5 @@ CommitTimestamp,Id,Version
 2024-06-18T23:56:49.2380319+00:00,AAUUnicodeDepConf,1.0.2
 2024-06-18T23:56:49.2380319+00:00,KunQeustionMark,1.0.0
 2024-06-20T12:19:19.5079982+00:00,Tekla.Structures.WorkspaceApiConnector,2025.0.0-alpha0000
+2024-06-20T14:15:15.2838306+00:00,Tekla.Structures.WorkspaceApiConnector,2025.0.0-alpha0001
+2024-06-20T14:19:18.3633436+00:00,Skyline.DataMiner.CICD.Tools.GitHubSecretUpdater,1.0.0.3
