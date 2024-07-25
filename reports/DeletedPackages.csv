@@ -30610,3 +30610,5 @@ CommitTimestamp,Id,Version
 2024-07-25T11:06:01.5722211+00:00,JLib.Reflection.Tests.DemoAssembly1,0.6.0
 2024-07-25T11:06:01.5722211+00:00,JLib.Reflection.Tests.DemoAssembly1,0.6.1
 2024-07-25T11:06:01.5722211+00:00,JLib.Reflection.Tests.DemoAssembly1,0.6.2
+2024-07-25T15:36:21.9855028+00:00,DotNext,5.8.0
+2024-07-25T15:42:16.8045020+00:00,DotNext.Threading,5.10.0
