@@ -30760,3 +30760,7 @@ CommitTimestamp,Id,Version
 2024-08-16T06:09:38.7037666+00:00,aholstrup1.ALAppExtensions.Modules,21.5.131
 2024-08-16T06:28:46.1848309+00:00,Cratis.Chronicle,10.0.0
 2024-08-16T06:29:46.0758755+00:00,Cratis.Chronicle.Compliance,10.0.0
+2024-08-16T06:30:46.5449566+00:00,Cratis.Chronicle.Concepts,10.0.0
+2024-08-16T06:30:46.5449566+00:00,Cratis.Chronicle.Grains.Interfaces,10.0.0
+2024-08-16T06:31:48.7484770+00:00,Cratis.Chronicle.Infrastructure,10.0.0
+2024-08-16T06:31:48.7484770+00:00,Cratis.Chronicle.Storage,10.0.0
