@@ -30764,3 +30764,5 @@ CommitTimestamp,Id,Version
 2024-08-16T06:30:46.5449566+00:00,Cratis.Chronicle.Grains.Interfaces,10.0.0
 2024-08-16T06:31:48.7484770+00:00,Cratis.Chronicle.Infrastructure,10.0.0
 2024-08-16T06:31:48.7484770+00:00,Cratis.Chronicle.Storage,10.0.0
+2024-08-16T23:37:49.7946733+00:00,StarService,1.7.0
+2024-08-16T23:50:31.2807462+00:00,StarService,1.7.1
