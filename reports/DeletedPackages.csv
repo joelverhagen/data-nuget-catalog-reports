@@ -30772,3 +30772,7 @@ CommitTimestamp,Id,Version
 2024-08-19T13:46:38.4253099+00:00,WebScraperForSteam,1.0.0
 2024-08-19T17:23:37.3990173+00:00,CommunityToolkit.Maui,9.0.3
 2024-08-19T17:24:39.6337588+00:00,CommunityToolkit.Maui.Core,9.0.3
+2024-08-19T18:04:53.8696847+00:00,CommunityToolkit.Maui.Maps,2.0.3
+2024-08-19T18:05:59.7771125+00:00,CommunityToolkit.Maui.Markup,4.1.0
+2024-08-19T18:05:59.7771125+00:00,CommunityToolkit.Maui.MediaElement,4.1.0
+2024-08-19T18:07:00.9807080+00:00,CommunityToolkit.Maui.Camera,1.0.4
