@@ -31114,3 +31114,5 @@ CommitTimestamp,Id,Version
 2024-09-03T09:25:35.7273719+00:00,Abel.Core,5.2.0-pre2
 2024-09-05T11:56:10.9804831+00:00,Trimble.Connect.Client,2.6.68
 2024-09-05T12:08:53.8564986+00:00,Trimble.Connect.Client.Common,1.0.90
+2024-09-05T19:12:30.0192901+00:00,BlendInteractive.Solr,1.1.0
+2024-09-05T19:13:41.4415547+00:00,BlendInteractive.Solr.Optimizely,1.1.0
