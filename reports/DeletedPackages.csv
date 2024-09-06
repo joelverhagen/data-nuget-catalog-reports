@@ -31126,3 +31126,15 @@ CommitTimestamp,Id,Version
 2024-09-06T09:02:49.7349673+00:00,SampleFileExplorer,3.0.1
 2024-09-06T09:02:49.7349673+00:00,SampleFileExplorer,3.0.2
 2024-09-06T21:59:09.6936263+00:00,Pieces.OS.Client,0.0.6-beta
+2024-09-06T22:59:59.6984816+00:00,AeroFetch.Clients.NotamSearch,0.0.1
+2024-09-06T23:01:07.8240726+00:00,AeroFetch.Base,1.2.3
+2024-09-06T23:02:14.7465035+00:00,AeroFetch.Base,0.0.1
+2024-09-06T23:02:14.7465035+00:00,AeroFetch.Base,1.0.0
+2024-09-06T23:02:14.7465035+00:00,AeroFetch.Clients.AutoRouter,1.2.3
+2024-09-06T23:03:19.9031894+00:00,AeroFetch.Clients.AutoRouter,0.0.1
+2024-09-06T23:03:19.9031894+00:00,AeroFetch.Clients.AutoRouter,1.0.0
+2024-09-06T23:03:19.9031894+00:00,AeroFetch.Clients.MetNorway,0.0.1
+2024-09-06T23:03:19.9031894+00:00,AeroFetch.Clients.MetNorway,1.2.3
+2024-09-06T23:04:24.8411189+00:00,AeroFetch.Clients.MetNorway,1.0.0
+2024-09-06T23:04:24.8411189+00:00,AeroFetch.Clients.NotamSearch,1.0.0
+2024-09-06T23:04:24.8411189+00:00,AeroFetch.Clients.NotamSearch,1.2.3
