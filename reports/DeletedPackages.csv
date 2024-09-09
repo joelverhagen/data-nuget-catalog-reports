@@ -31141,3 +31141,6 @@ CommitTimestamp,Id,Version
 2024-09-07T10:35:49.6817660+00:00,EncryptionManager,1.0.0
 2024-09-07T18:30:25.2947858+00:00,Packt.CSdonet.SharedLibraryTEST123,6.0.0
 2024-09-09T06:18:56.4351182+00:00,SampleFileExplorer,2.0.0
+2024-09-09T09:14:06.9759228+00:00,InfinityFlow.Temporal.Migrator.Abstractions,1.0.0
+2024-09-09T09:17:27.4028478+00:00,Abdullah.Ozturk.CoreLib,1.0.5
+2024-09-09T09:19:31.7163433+00:00,InfinityFlow.Temporal.Migrator,1.0.0
