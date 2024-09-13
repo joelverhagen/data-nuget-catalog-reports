@@ -31222,3 +31222,15 @@ CommitTimestamp,Id,Version
 2024-09-12T11:15:13.6545009+00:00,ic4dotnet.System.Windows.Forms,1.2.0.2947-test
 2024-09-12T11:15:13.6545009+00:00,ic4dotnet.System.Windows.Media,1.2.0.2947-test
 2024-09-12T15:51:24.8330585+00:00,PureDM,1.1.12
+2024-09-13T07:58:17.4973074+00:00,Synapse.Api.Application,1.0.1-alpha2
+2024-09-13T08:03:12.9532442+00:00,Synapse.Api.Client.Core,1.0.1-alpha2
+2024-09-13T08:04:15.7661743+00:00,Synapse.Api.Client.Http,1.0.1-alpha2
+2024-09-13T08:04:15.7661743+00:00,Synapse.Api.Http,1.0.1-alpha2
+2024-09-13T08:04:15.7661743+00:00,Synapse.Core.Infrastructure,1.0.1-alpha2
+2024-09-13T08:04:15.7661743+00:00,Synapse.Core.Infrastructure.Containers.Docker,1.0.1-alpha2
+2024-09-13T08:04:15.7661743+00:00,Synapse.Core.Infrastructure.Containers.Kubernetes,1.0.1-alpha2
+2024-09-13T08:04:15.7661743+00:00,Synapse.Runtime.Abstractions,1.0.1-alpha2
+2024-09-13T08:05:20.4696875+00:00,Synapse.Runtime.Docker,1.0.1-alpha2
+2024-09-13T08:05:20.4696875+00:00,Synapse.Runtime.Kubernetes,1.0.1-alpha2
+2024-09-13T08:05:20.4696875+00:00,Synapse.Runtime.Native,1.0.1-alpha2
+2024-09-13T08:05:20.4696875+00:00,Synapse.Sdk,1.0.1-alpha2
