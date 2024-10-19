@@ -31854,3 +31854,17 @@ CommitTimestamp,Id,Version
 2024-10-18T17:04:33.8006696+00:00,ManageXRAPI.Extensions,1.0.0
 2024-10-18T17:05:39.2542217+00:00,ManageXRAPIClient,1.0.0
 2024-10-19T12:28:20.9915963+00:00,TVideoGrabber-SDK-evaluation,15.4.2.2
+2024-10-19T15:50:46.0648758+00:00,Trombetta.Samples.CommandLine,1.0.0-preview.1
+2024-10-19T15:52:24.2561230+00:00,Trombetta.Samples.Combine,1.0.0-preview.1
+2024-10-19T15:52:59.6311017+00:00,file,1.0.0-preview.1
+2024-10-19T15:53:34.0534328+00:00,Trombetta.Samples.Playground,1.0.0-preview.1
+2024-10-19T15:55:17.7530282+00:00,Trombetta.Cli.Parsing,0.9.0
+2024-10-19T15:56:26.5347096+00:00,Trombetta.Cli.Common,1.0.0-preview.1
+2024-10-19T15:56:26.5347096+00:00,Trombetta.Cli.Configuration,1.0.0-preview.1
+2024-10-19T15:57:31.5195975+00:00,Trombetta.Cli.Configuration.Abstractions,1.0.0-preview.1
+2024-10-19T15:58:04.4885428+00:00,Trombetta.Cli.Configuration.Json,1.0.0-preview.1
+2024-10-19T15:59:46.1189796+00:00,Trombetta.Cli.Parsing.Abstractions,0.9.0
+2024-10-19T16:00:19.5880398+00:00,Trombetta.Cli.Providers,1.0.0-preview.1
+2024-10-19T16:00:19.5880398+00:00,Trombetta.Cli.Providers.Abstractions,1.0.0-preview.1
+2024-10-19T16:00:53.1367600+00:00,Trombetta.Cli.Tokenization,0.9.0
+2024-10-19T16:09:30.3380437+00:00,ArgumentsToJson,1.0.0-preview.1
