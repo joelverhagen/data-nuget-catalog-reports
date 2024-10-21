@@ -31872,3 +31872,5 @@ CommitTimestamp,Id,Version
 2024-10-21T07:09:37.9541568+00:00,Trombetta.Cli.Parsing,1.0.0
 2024-10-21T07:14:56.4092093+00:00,Trombetta.Samples.Read,1.0.0
 2024-10-21T07:20:47.7507774+00:00,Trombetta.Cli.Configuration,1.0.0
+2024-10-21T14:20:58.7013745+00:00,Trimble.Connect.Client.Common,2.0.1
+2024-10-21T14:28:03.8578143+00:00,Trimble.Connect.Client.Common,2.0.1
