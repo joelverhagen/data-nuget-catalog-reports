@@ -31968,3 +31968,10 @@ CommitTimestamp,Id,Version
 2024-10-24T18:00:27.6783269+00:00,DinhKhanh.Controls.UI,1.0.0
 2024-10-24T23:11:03.7379603+00:00,Ab4d.SharpEngine.Logging.Diagnostics,1.0.0
 2024-10-25T06:04:48.5199533+00:00,Altinok.Core,1.0.0
+2024-10-25T09:44:49.7691021+00:00,Hopex.ApplicationServer.Commons,16.1.0.121
+2024-10-25T09:44:49.7691021+00:00,Hopex.ApplicationServer.Extensions.Commandline,16.1.0.121
+2024-10-25T09:44:49.7691021+00:00,Hopex.ApplicationServer.Extensions.Forms,16.1.0.121
+2024-10-25T09:44:49.7691021+00:00,Hopex.ApplicationServer.Extensions.Package,16.1.0.121
+2024-10-25T09:44:49.7691021+00:00,Hopex.ApplicationServer.Extensions.WebServices,16.1.0.121
+2024-10-25T09:44:49.7691021+00:00,Hopex.ApplicationServer.SiteModule,16.1.0.121
+2024-10-25T09:44:49.7691021+00:00,Hopex.ApplicationServer.Tool,16.1.0.121
