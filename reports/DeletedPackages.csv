@@ -32224,3 +32224,5 @@ CommitTimestamp,Id,Version
 2024-12-09T11:05:42.5394108+00:00,OhmStudio.UI,1.2.3.6
 2024-12-09T16:15:55.1523201+00:00,OhmStudio.UI,1.2.3.7
 2024-12-09T22:23:44.7106501+00:00,BriteBoxComponentLibrary,1.0.0
+2024-12-10T16:44:18.4592663+00:00,OSIsoft.Identity.AuthenticationHandler,4.0.0
+2024-12-10T16:45:32.3503087+00:00,OSIsoft.Identity.Models,5.0.0
