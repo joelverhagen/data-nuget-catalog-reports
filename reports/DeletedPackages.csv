@@ -32245,3 +32245,6 @@ CommitTimestamp,Id,Version
 2024-12-19T05:52:27.0376969+00:00,prk4515Ex,1.0.0
 2024-12-19T06:25:00.8818863+00:00,RestApiClientSharp,1.0.0
 2024-12-19T06:29:28.3211081+00:00,RestApiClientSharp,1.0.0
+2024-12-19T07:07:31.9986956+00:00,SharedNetCoreLibrary,1.1.14-preview1
+2024-12-19T07:14:03.9226413+00:00,SharedMauiCoreLibrary,1.1.14-preview1
+2024-12-19T07:15:04.0949526+00:00,SharedMauiCoreLibrary.Licensing,1.1.14-preview1
