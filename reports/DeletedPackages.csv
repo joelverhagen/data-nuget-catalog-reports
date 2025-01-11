@@ -32329,3 +32329,6 @@ CommitTimestamp,Id,Version
 2025-01-10T13:54:57.0423231+00:00,SD.LLBLGen.Pro.ORMSupportClasses,5.11.4-hotfix-20250110
 2025-01-10T13:54:57.0423231+00:00,SD.LLBLGen.Pro.ORMSupportClasses.Web,5.11.4-hotfix-20250110
 2025-01-10T19:45:00.5312313+00:00,Gehtsoft.Measurements,1.1.15
+2025-01-11T05:15:43.4259385+00:00,CortlandY.InsightfulAutomaton.Api,1.0.0
+2025-01-11T05:16:17.1293122+00:00,CortlandY.InsightfulAutomaton.Core,1.0.0
+2025-01-11T05:16:17.1293122+00:00,CortlandY.InsightfulAutomaton.Infrastructure,1.0.0
