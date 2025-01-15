@@ -12,13 +12,13 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Setup .NET Core
-      uses: actions/setup-dotnet@v1
+      uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: 3.1.403
+        dotnet-version: 8.0.x
     - name: Install tool
-      run: dotnet tool update --global Knapcode.CatalogCrawler --version 0.0.4-beta
+      run: dotnet tool update --global Knapcode.CatalogCrawler --version 0.0.5-beta
     - name: Run tool
       run: Knapcode.CatalogCrawler update-reports --data-dir .
     - name: Commit and push if data has changed
