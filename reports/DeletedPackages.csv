@@ -32402,3 +32402,5 @@ CommitTimestamp,Id,Version
 2025-01-24T17:38:08.4662053+00:00,SignalSciences.Module.DotNet,1.7.0
 2025-01-24T17:46:10.4750323+00:00,SignalSciences.Module.DotNetCore,1.4.0
 2025-01-27T05:59:06.6594945+00:00,Mİcrosoft.Extensions.AutoMapper,1.0.0
+2025-01-27T11:09:58.8708760+00:00,Avira.Managed.Endpoint.Protection.Client,1.2501.4776
+2025-01-27T11:15:09.9626116+00:00,Avira.Managed.Sdk,1.2501.1732
