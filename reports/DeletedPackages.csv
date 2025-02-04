@@ -32418,3 +32418,6 @@ CommitTimestamp,Id,Version
 2025-02-04T12:32:36.8309703+00:00,Orca.Store.EntityFrameworkCore,8.0.0
 2025-02-04T12:33:09.2843155+00:00,Orca.Store.Http,8.0.0
 2025-02-04T12:34:07.4254666+00:00,Orca.Store.InMemory,8.0.0
+2025-02-04T18:10:56.4261783+00:00,Eremex.Avalonia.Themes.DeltaDesign,1.1.95
+2025-02-04T18:12:00.2722288+00:00,Eremex.Avalonia.Controls3D,1.1.95
+2025-02-04T18:12:00.2722288+00:00,Eremex.Avalonia.Templates,1.1.95
