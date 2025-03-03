@@ -32629,3 +32629,9 @@ CommitTimestamp,Id,Version
 2025-02-27T14:52:27.3895374+00:00,DVI.AzureLogging.Service,1.0.0
 2025-02-28T18:31:09.4457689+00:00,GEFCH.IRepositories,1.0.0
 2025-02-28T18:32:09.6492948+00:00,GEFCH.Repositories,1.0.0
+2025-03-03T08:46:24.1132693+00:00,MatriksIQ.Lean.Algotrader.Reference.Assembly,5.3.0.2
+2025-03-03T08:51:56.4117409+00:00,MatriksIQ.AI.Reference.Assembly,5.3.0.2
+2025-03-03T08:53:18.2564872+00:00,MatriksIQ.Core.Reference.Assembly,5.3.0.2
+2025-03-03T08:53:18.2564872+00:00,MatriksIQ.Indicators.Reference.Assembly,5.3.0.2
+2025-03-03T08:53:18.2564872+00:00,MatriksIQ.ML.Reference.Assembly,5.3.0.2
+2025-03-03T08:53:18.2564872+00:00,MatriksIQ.Trader.Core.Reference.Assembly,5.3.0.2
