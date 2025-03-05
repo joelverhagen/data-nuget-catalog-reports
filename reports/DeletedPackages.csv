@@ -32733,3 +32733,4 @@ CommitTimestamp,Id,Version
 2025-03-04T18:14:34.1396684+00:00,Steeltoe.Security.Authentication.JwtBearer,4.0.0-beta1
 2025-03-04T18:14:34.1396684+00:00,Steeltoe.Security.Authentication.OpenIdConnect,4.0.0-beta1
 2025-03-04T18:14:34.1396684+00:00,Steeltoe.Security.Authorization.Certificate,4.0.0-beta1
+2025-03-05T05:50:50.3412779+00:00,DemaConsulting.WeasyprintTool,64.1.0
