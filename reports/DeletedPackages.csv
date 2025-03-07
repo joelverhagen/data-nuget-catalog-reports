@@ -32744,3 +32744,6 @@ CommitTimestamp,Id,Version
 2025-03-07T08:27:59.8522460+00:00,Cocotec.CocoTest,1.5.0-beta.5
 2025-03-07T08:29:01.9939568+00:00,Cocotec.Coco,1.5.0-beta.6
 2025-03-07T08:29:01.9939568+00:00,Cocotec.CocoTest,1.5.0-beta.6
+2025-03-07T22:10:16.5664982+00:00,CommunityToolkit.Datasync.Server.CosmosDb,9.0.1
+2025-03-07T22:10:16.5664982+00:00,CommunityToolkit.Datasync.Server.MongoDB,9.0.1
+2025-03-07T22:10:16.5664982+00:00,CommunityToolkit.Datasync.Server.OpenApi,9.0.1
