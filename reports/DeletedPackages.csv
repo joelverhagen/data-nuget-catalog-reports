@@ -32964,3 +32964,6 @@ CommitTimestamp,Id,Version
 2025-04-08T14:54:12.8516402+00:00,Ac.Nuget.ExceptionHandler.Csharp,1.0.1
 2025-04-08T14:54:12.8516402+00:00,Ac.Nuget.ExceptionHandler.Csharp,1.0.2
 2025-04-08T14:55:30.0555128+00:00,Ac.Nuget.ExceptionHandler.Csharp,1.0.0
+2025-04-08T18:09:46.0498257+00:00,ClangSharp,18.1.0.4
+2025-04-08T18:09:46.0498257+00:00,ClangSharp.Interop,18.1.0.4
+2025-04-08T18:10:54.2405579+00:00,ClangSharpPInvokeGenerator,18.1.0.4
