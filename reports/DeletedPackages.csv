@@ -33010,3 +33010,5 @@ CommitTimestamp,Id,Version
 2025-04-18T05:45:33.7909528+00:00,Feijuca.Keycloak.MultiTenancy,1.6.0
 2025-04-18T20:51:58.9427619+00:00,Anti-Debug2,1.0.0
 2025-04-21T08:47:55.4936472+00:00,Scand.StormPetrel.Generator,2.3.0
+2025-04-22T01:12:09.6146294+00:00,CommunityToolkit.Aspire.Hosting.Adminer,9.4.0
+2025-04-22T01:13:22.1196618+00:00,CommunityToolkit.Aspire.Hosting.k6,9.4.0
