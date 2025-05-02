@@ -33086,3 +33086,4 @@ CommitTimestamp,Id,Version
 2025-05-01T00:12:10.6466706+00:00,UltronSetting.DataAccess.Dapper,8.0.14
 2025-05-01T00:12:10.6466706+00:00,UltronSetting.DataAccess.EFCore,8.0.14
 2025-05-01T00:12:10.6466706+00:00,UltronSetting.Domain,8.0.14
+2025-05-02T10:21:58.7672386+00:00,Feijuca.Keycloak.MultiTenancy,1.5.1
