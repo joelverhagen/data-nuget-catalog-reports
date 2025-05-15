@@ -33188,3 +33188,9 @@ CommitTimestamp,Id,Version
 2025-05-14T17:53:06.7864680+00:00,LlamachantFramework.Workflow.Service,24.2.7.1
 2025-05-14T17:53:06.7864680+00:00,LlamachantFramework.Workflow.XPO,24.2.7.1
 2025-05-14T17:53:06.7864680+00:00,Serilog.Sinks.LlamaLogger,24.2.7.1
+2025-05-15T15:53:55.9314164+00:00,Iot.Device.Bindings,4.0.0
+2025-05-15T15:53:55.9314164+00:00,Iot.Device.Bindings.SkiaSharpAdapter,4.0.0
+2025-05-15T15:53:55.9314164+00:00,System.Device.Gpio,4.0.0
+2025-05-15T15:55:03.4987129+00:00,acs,1.0.2-prerelease.25259.5
+2025-05-15T16:06:14.8285316+00:00,Iot.Device.Bindings,4.0.0
+2025-05-15T16:06:14.8285316+00:00,System.Device.Gpio,4.0.0
