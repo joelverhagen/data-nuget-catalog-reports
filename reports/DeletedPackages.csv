@@ -33237,3 +33237,5 @@ CommitTimestamp,Id,Version
 2025-05-27T18:18:09.5393947+00:00,Machina.FFXIV,2.4.2.5
 2025-05-27T18:20:08.2693286+00:00,Soenneker.Libraries.Whisper.CTranslate,3.0.142
 2025-05-28T07:25:54.1125530+00:00,RESXManager,1.7
+2025-05-28T11:26:14.8193112+00:00,Nethereum.MudBlazorComponents,5.0.0
+2025-05-28T11:27:20.1791869+00:00,Nethereum.JsonRpc.SystemTextJsonRpcClient,5.0.0
