@@ -33305,3 +33305,5 @@ CommitTimestamp,Id,Version
 2025-06-04T06:38:17.3257028+00:00,StarMicronics.StarDocumentMarkup-Utility,2.0.0
 2025-06-04T07:04:37.7896203+00:00,Volo.Abp.VirtualFileExplorer.SourceCode,9.2.0-rc.3
 2025-06-04T08:12:36.1760037+00:00,ScanAndPay.QRCode,1.0.0
+2025-06-04T09:37:08.9962918+00:00,TeamIT.VoipReadinessCheck.NetworkInfoCollection,0.8.2
+2025-06-04T09:40:38.1364649+00:00,TeamIT.NetworkInfoCollection,0.8.2
