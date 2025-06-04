@@ -33307,3 +33307,7 @@ CommitTimestamp,Id,Version
 2025-06-04T08:12:36.1760037+00:00,ScanAndPay.QRCode,1.0.0
 2025-06-04T09:37:08.9962918+00:00,TeamIT.VoipReadinessCheck.NetworkInfoCollection,0.8.2
 2025-06-04T09:40:38.1364649+00:00,TeamIT.NetworkInfoCollection,0.8.2
+2025-06-04T15:51:59.3658299+00:00,FoxLearn.SecurityHeaders.AspNet,1.0.1
+2025-06-04T15:53:09.2011075+00:00,FoxLearn.JsonLd.AspNetCore,1.1.0
+2025-06-04T15:53:09.2011075+00:00,FoxLearn.JsonLd.AspNetCore,1.1.1
+2025-06-04T15:53:09.2011075+00:00,FoxLearn.SecurityHeaders.AspNetCore,1.0.1
