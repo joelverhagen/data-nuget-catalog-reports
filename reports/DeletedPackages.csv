@@ -33316,3 +33316,6 @@ CommitTimestamp,Id,Version
 2025-06-05T05:15:26.5343303+00:00,db_repository_ms_rpr,1.0.0
 2025-06-05T08:21:39.1734595+00:00,FoxLearn.JsonLd.AspNetCore,1.0.3
 2025-06-05T19:13:43.8072304+00:00,Biosero.DataServices.Client,2.0.1
+2025-06-06T04:11:16.8102660+00:00,StarMicronics.StarIO.Desktop.StrongName,2.12.0
+2025-06-06T04:12:19.0488241+00:00,StarMicronics.StarIOExtension.Desktop,1.10.0
+2025-06-06T04:12:19.0488241+00:00,StarMicronics.StarIOExtension.Desktop.StrongName,1.10.0
