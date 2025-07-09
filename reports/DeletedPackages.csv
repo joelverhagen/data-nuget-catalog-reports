@@ -34017,3 +34017,8 @@ CommitTimestamp,Id,Version
 2025-07-09T14:13:01.1006548+00:00,Haley.Helpers.DB,0.0.25.7
 2025-07-09T14:13:01.1006548+00:00,Haley.Rest,2.0.18.3
 2025-07-09T14:13:01.1006548+00:00,ShiftSoftware.ShiftIdentity.Data,2025.7.4.1
+2025-07-09T14:35:23.4431730+00:00,vpk,0.0.1350-g3ba32af
+2025-07-09T14:59:04.5865025+00:00,ShapeDiver.ContainerCastleWindsor,1.28.0-beta.2
+2025-07-09T14:59:04.5865025+00:00,ShapeDiver.ContainerInterfaces,1.28.0-beta.2
+2025-07-09T14:59:04.5865025+00:00,ShapeDiver.SDK,1.28.0-beta.2
+2025-07-09T14:59:04.5865025+00:00,ShapeDiver.SDK.TokenGenerator,1.28.0-beta.2
