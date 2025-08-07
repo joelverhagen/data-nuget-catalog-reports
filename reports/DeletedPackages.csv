@@ -42168,3 +42168,8 @@ CommitTimestamp,Id,Version
 2025-08-07T16:30:01.0677984+00:00,Ahsoka.Extensions.PowerVisionConduit,5.0.1-zzz-develop.3
 2025-08-07T16:30:01.0677984+00:00,Ahsoka.Extensions.PowerVisionConduit,5.0.1-zzz-develop.4
 2025-08-07T16:30:01.0677984+00:00,Ahsoka.Extensions.PowerVisionConduit,5.0.1-zzz-develop.5
+2025-08-07T22:04:49.5739660+00:00,SolarWindsAPM.Agent.Api,6.0.1
+2025-08-07T22:06:33.1606135+00:00,SolarWindsAPM.Agent,6.0.1
+2025-08-07T22:07:46.5853345+00:00,SolarWindsAPM.Agent.AzureAppServices.Extension,6.0.1
+2025-08-07T22:07:46.5853345+00:00,SolarWindsAPM.OpenTelemetry.Agent,6.0.1
+2025-08-07T22:07:46.5853345+00:00,SolarWindsAPM.OpenTelemetry.Agent.Native,6.0.1
