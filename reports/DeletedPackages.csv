@@ -42193,3 +42193,11 @@ CommitTimestamp,Id,Version
 2025-08-11T13:24:51.4575153+00:00,Youxel.Utilities.Captcha,1.0.0
 2025-08-11T13:37:13.8995004+00:00,Youxel.Utilities.EventBus,1.0.0
 2025-08-11T13:38:24.3629199+00:00,Youxel.Utilities.Extensions,1.0.0
+2025-08-11T13:55:50.5337489+00:00,Youxel.Utilities.Json,1.0.0
+2025-08-11T13:55:50.5337489+00:00,Youxel.Utilities.License,1.0.0
+2025-08-11T13:56:54.1518140+00:00,Youxel.Utilities.SqlFunctions,1.0.0
+2025-08-11T13:57:58.9306092+00:00,Youxel.Utilities.MediatR,1.0.0
+2025-08-11T13:57:58.9306092+00:00,Youxel.Utilities.Otp,1.0.0
+2025-08-11T13:57:58.9306092+00:00,Youxel.Utilities.PdfGenerator,1.0.0
+2025-08-11T13:59:01.8257231+00:00,Youxel.Utilities.ExportHelper,1.0.0
+2025-08-11T13:59:01.8257231+00:00,Youxel.Utilities.TokenService,1.0.0
