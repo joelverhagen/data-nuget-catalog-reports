@@ -43318,3 +43318,6 @@ CommitTimestamp,Id,Version
 2025-10-17T12:47:52.4009720+00:00,YTWSEncryptionService,1.0.0
 2025-10-18T03:35:04.8099019+00:00,DevExLead.Modules.AI,1.0.0
 2025-10-18T03:35:04.8099019+00:00,DevExLead.Modules.Confluence,1.0.0
+2025-10-18T09:06:03.5180515+00:00,OwlDomain.Testing.Assertions.Tests,1.0.0
+2025-10-18T09:07:17.9049946+00:00,OwlDomain.Testing.Base.Tests,1.0.0
+2025-10-18T09:07:17.9049946+00:00,OwlDomain.Testing.MSTest.Tests,1.0.0
