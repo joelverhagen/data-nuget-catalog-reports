@@ -43470,3 +43470,9 @@ CommitTimestamp,Id,Version
 2025-10-21T04:33:38.4387902+00:00,DevExLead.Integrations,0.6.2-gbbf9b9a1c7
 2025-10-21T04:34:53.1393690+00:00,QuartSystem.SeqMcpServer,1.0.0
 2025-10-21T08:04:16.3589798+00:00,dxc,0.5.5-gbf53e8be71
+2025-10-21T13:33:11.5285475+00:00,Stateflows.Extensions.MinimalAPIs,1.0.0
+2025-10-21T13:34:30.0751861+00:00,Stateflows.Extensions.OneOf,1.0.0
+2025-10-21T13:34:30.0751861+00:00,Stateflows.Extensions.OpenTelemetry,1.0.0
+2025-10-21T13:34:30.0751861+00:00,Stateflows.Extensions.PlantUml,1.0.0
+2025-10-21T13:35:48.6268199+00:00,Stateflows.Common,1.0.0
+2025-10-21T13:35:48.6268199+00:00,Stateflows.Extensions.Scheduling,1.0.0
