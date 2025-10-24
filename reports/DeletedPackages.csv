@@ -43574,3 +43574,9 @@ CommitTimestamp,Id,Version
 2025-10-23T18:15:09.9881520+00:00,SolnetPlus,0.0.9
 2025-10-23T18:15:09.9881520+00:00,SolnetPlus,2.5.1
 2025-10-23T18:35:59.2198505+00:00,BaseTestPackage.SampleMcpServer,0.1.0-beta
+2025-10-24T19:51:18.0390145+00:00,Toggly.FeatureManagement,2.10.1
+2025-10-24T19:51:18.0390145+00:00,Toggly.FeatureManagement.Hangfire,2.10.1
+2025-10-24T19:51:18.0390145+00:00,Toggly.FeatureManagement.Storage.DistributedCache,2.10.1
+2025-10-24T19:51:18.0390145+00:00,Toggly.FeatureManagement.Storage.RavenDB,2.10.1
+2025-10-24T19:51:18.0390145+00:00,Toggly.FeatureManagement.Web,2.10.1
+2025-10-24T19:51:18.0390145+00:00,Toggly.Metrics.SystemMetrics,2.10.1
