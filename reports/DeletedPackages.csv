@@ -43580,3 +43580,5 @@ CommitTimestamp,Id,Version
 2025-10-24T19:51:18.0390145+00:00,Toggly.FeatureManagement.Storage.RavenDB,2.10.1
 2025-10-24T19:51:18.0390145+00:00,Toggly.FeatureManagement.Web,2.10.1
 2025-10-24T19:51:18.0390145+00:00,Toggly.Metrics.SystemMetrics,2.10.1
+2025-10-27T05:13:24.4562412+00:00,PSY.Kafka.Producer,10.0.0
+2025-10-27T05:18:25.2520341+00:00,PSY.Kafka.Producer.Demo,1.0.0
