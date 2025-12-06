@@ -44009,3 +44009,6 @@ CommitTimestamp,Id,Version
 2025-12-06T00:19:58.2882242+00:00,Lithnet.GoogleApps,2.2.2
 2025-12-06T16:03:45.9653929+00:00,Wkg.EntityFrameworkCore.SourceGeneration,10.0.18973
 2025-12-06T16:04:57.8001593+00:00,Wkg.EntityFrameworkCore.Discovery.Roslyn,10.0.18967
+2025-12-06T19:40:14.4169139+00:00,Catel.Core,6.3.0-alpha0153
+2025-12-06T19:40:14.4169139+00:00,Catel.MVVM,6.3.0-alpha0153
+2025-12-06T19:40:14.4169139+00:00,Catel.Serialization.Json,6.3.0-alpha0153
