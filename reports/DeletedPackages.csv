@@ -44049,3 +44049,9 @@ CommitTimestamp,Id,Version
 2025-12-27T19:23:36.0383524+00:00,Asp.Versioning.OData,8.2.1
 2025-12-27T19:23:36.0383524+00:00,Asp.Versioning.OData.ApiExplorer,8.2.1
 2025-12-27T19:24:11.4090826+00:00,Asp.Versioning.WebApi.OData.ApiExplorer,7.1.1
+2025-12-30T15:17:08.8364134+00:00,Audacia.Auth.OpenIddict,4.1.1
+2025-12-30T15:17:08.8364134+00:00,Audacia.Auth.OpenIddict.EntityFramework,4.1.1
+2025-12-30T15:17:08.8364134+00:00,Audacia.Auth.OpenIddict.QuartzCleanup,4.1.1
+2025-12-30T15:17:08.8364134+00:00,Audacia.Auth.OpenIddict.Seeding,4.1.1
+2025-12-30T15:17:08.8364134+00:00,Audacia.Auth.OpenIddict.Seeding.EntityFramework,4.1.1
+2025-12-30T15:17:08.8364134+00:00,Audacia.Auth.OpenIddict.Seeding.EntityFrameworkCore,4.1.1
