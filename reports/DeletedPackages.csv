@@ -44056,3 +44056,5 @@ CommitTimestamp,Id,Version
 2025-12-30T15:17:08.8364134+00:00,Audacia.Auth.OpenIddict.Seeding.EntityFramework,4.1.1
 2025-12-30T15:17:08.8364134+00:00,Audacia.Auth.OpenIddict.Seeding.EntityFrameworkCore,4.1.1
 2025-12-30T16:21:35.8878927+00:00,Audacia.Spreadsheets,1.3.0
+2025-12-30T20:54:42.0655702+00:00,HighGear.ApiClient,10.2.2.243
+2025-12-30T21:27:06.7043503+00:00,HighGear.ApiClient,10.2.2.243
