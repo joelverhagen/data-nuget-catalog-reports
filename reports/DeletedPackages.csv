@@ -44076,3 +44076,12 @@ CommitTimestamp,Id,Version
 2026-01-01T03:30:22.0230182+00:00,Hydrogen.Windows.Forms.Sqlite,1.0.0
 2026-01-01T03:31:30.5177429+00:00,Hydrogen.Windows.LevelDB,1.0.0
 2026-01-03T16:01:47.0404732+00:00,NuggetLib.Common,1.0.0
+2026-01-04T17:59:39.9185375+00:00,ProEssentials.Chart.Net.Winforms,10.0.0.18
+2026-01-04T18:12:30.2947222+00:00,ProEssentials.Chart.Net.Winforms,10.0.0.18
+2026-01-04T18:17:17.1810421+00:00,ProEssentials.Chart.Net.Wpf,10.0.0.18
+2026-01-04T18:17:17.1810421+00:00,ProEssentials.Chart.Net.x64.Winforms,10.0.0.18
+2026-01-04T18:18:27.0928010+00:00,ProEssentials.Chart.Net.x64.Wpf,10.0.0.18
+2026-01-04T18:18:27.0928010+00:00,ProEssentials.Chart.Net80.Winforms,10.0.0.18
+2026-01-04T18:18:27.0928010+00:00,ProEssentials.Chart.Net80.Wpf,10.0.0.18
+2026-01-04T18:18:27.0928010+00:00,ProEssentials.Chart.Net80.x64.Winforms,10.0.0.18
+2026-01-04T18:19:36.4555487+00:00,ProEssentials.Chart.Net80.x64.Wpf,10.0.0.18
