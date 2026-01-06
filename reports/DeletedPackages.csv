@@ -44130,3 +44130,6 @@ CommitTimestamp,Id,Version
 2026-01-05T15:27:44.6434487+00:00,Audacia.Seed,2.0.3
 2026-01-05T15:27:44.6434487+00:00,Audacia.Seed.EntityFramework,2.0.3
 2026-01-05T15:27:44.6434487+00:00,Audacia.Seed.EntityFrameworkCore,2.0.3
+2026-01-06T09:01:09.5710976+00:00,Slickflow.Engine,3.5.1
+2026-01-06T09:12:19.5305921+00:00,Audacia.CodeAnalysis.Analyzers,1.12.1
+2026-01-06T09:12:19.5305921+00:00,Audacia.CodeAnalysis.Analyzers.Helpers,2.0.0
