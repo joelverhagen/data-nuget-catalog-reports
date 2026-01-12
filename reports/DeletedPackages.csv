@@ -44341,3 +44341,6 @@ CommitTimestamp,Id,Version
 2026-01-12T19:45:21.9318011+00:00,DotVVM.Tracing.ApplicationInsights.Owin,5.0.0-preview06-final
 2026-01-12T19:45:21.9318011+00:00,DotVVM.Tracing.MiniProfiler.AspNetCore,5.0.0-preview06-final
 2026-01-12T19:45:21.9318011+00:00,DotVVM.Tracing.MiniProfiler.Owin,5.0.0-preview06-final
+2026-01-12T22:34:34.5301632+00:00,Duende.Templates,1.2.1
+2026-01-12T22:54:02.7807151+00:00,Duende.Documentation.Mcp,0.2.0
+2026-01-12T23:00:24.9604891+00:00,Duende.Templates,1.2.1
