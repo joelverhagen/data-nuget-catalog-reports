@@ -44374,3 +44374,5 @@ CommitTimestamp,Id,Version
 2026-01-13T23:46:00.4194859+00:00,CliLicenseGenerator,1.0.0
 2026-01-14T11:46:38.5607401+00:00,git-credential-manager,2.7.0
 2026-01-14T11:58:14.8392253+00:00,git-credential-manager,2.7.0
+2026-01-14T16:52:12.9959829+00:00,SgxHeaders,2.27.100.1
+2026-01-14T17:00:32.6059345+00:00,DCAP_Components,1.24.100.2
