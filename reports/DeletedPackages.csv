@@ -44381,3 +44381,4 @@ CommitTimestamp,Id,Version
 2026-01-14T18:58:39.7257724+00:00,Intento.SDK.DependencyInjection,2.3.2
 2026-01-14T18:58:39.7257724+00:00,Intento.SDK.DependencyInjection.Lite,2.3.2
 2026-01-14T18:58:39.7257724+00:00,Intento.SDK.Ninject,2.3.2
+2026-01-14T22:40:49.2327171+00:00,Transmitly.ChannelProvider.Mailgun,0.1.0-1.05eaf8c
