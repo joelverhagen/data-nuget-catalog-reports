@@ -44372,3 +44372,5 @@ CommitTimestamp,Id,Version
 2026-01-13T10:36:28.2322255+00:00,DotVVM.Tracing.MiniProfiler.Owin,5.0.0-preview07-final
 2026-01-13T12:32:18.0786200+00:00,Firely.Fhir.Packages,5.0.1
 2026-01-13T23:46:00.4194859+00:00,CliLicenseGenerator,1.0.0
+2026-01-14T11:46:38.5607401+00:00,git-credential-manager,2.7.0
+2026-01-14T11:58:14.8392253+00:00,git-credential-manager,2.7.0
