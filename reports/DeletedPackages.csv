@@ -45103,3 +45103,5 @@ CommitTimestamp,Id,Version
 2026-01-16T18:16:12.9238186+00:00,JsonOverTCP,1.0.0
 2026-01-16T22:13:16.3305738+00:00,ChmlFrp.SDK.NativeAssets.Win32,1.0.0-preveiw
 2026-01-19T18:27:17.4444862+00:00,TestPackage.Security.Research,1.0.0
+2026-01-21T13:22:30.1049029+00:00,Dongle.TrustedSigning,1.0.63
+2026-01-21T13:53:36.1624847+00:00,Dongle.TrustedSigning,1.0.63
