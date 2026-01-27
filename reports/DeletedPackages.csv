@@ -45106,3 +45106,13 @@ CommitTimestamp,Id,Version
 2026-01-21T13:22:30.1049029+00:00,Dongle.TrustedSigning,1.0.63
 2026-01-21T13:53:36.1624847+00:00,Dongle.TrustedSigning,1.0.63
 2026-01-23T12:44:20.2185513+00:00,Microsensys.iIDReaderLibrary,2.0.0
+2026-01-27T06:11:50.4650010+00:00,SoftwareWorker.Context,1.2.6-gfc8d1049c7
+2026-01-27T06:11:50.4650010+00:00,SoftwareWorker.Context,1.5.0-gb93a47312b
+2026-01-27T06:13:10.2511298+00:00,SoftwareWorker.Context,1.2.6-g64681ef295
+2026-01-27T06:13:10.2511298+00:00,SoftwareWorker.Context,1.2.6-ga0ffb42f2b
+2026-01-27T06:14:20.1023412+00:00,SoftwareWorker.Integrations,1.2.6-gfc8d1049c7
+2026-01-27T06:14:20.1023412+00:00,SoftwareWorker.Integrations,1.5.0-gb93a47312b
+2026-01-27T06:15:36.8222022+00:00,SoftwareWorker.Integrations,1.2.6-g64681ef295
+2026-01-27T06:15:36.8222022+00:00,SoftwareWorker.Integrations,1.2.6-ga0ffb42f2b
+2026-01-27T06:16:49.4374409+00:00,SoftwareWorker.Ingest,1.2.6-ga0ffb42f2b
+2026-01-27T06:16:49.4374409+00:00,SoftwareWorker.Ingest,1.2.6-gfc8d1049c7
