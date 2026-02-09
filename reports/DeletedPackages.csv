@@ -45346,3 +45346,5 @@ CommitTimestamp,Id,Version
 2026-02-06T19:49:16.4218030+00:00,very.safe.package,1.0.0
 2026-02-06T20:23:23.3343238+00:00,InterSystems.Data.IRISClient,2.6.1
 2026-02-07T14:57:31.3827133+00:00,Geonames.Parser.Console,1.0.0
+2026-02-09T11:50:22.3474948+00:00,codefetch.amd64,10.0.0
+2026-02-09T11:50:59.9120355+00:00,codefetch.arm64,10.0.0
