@@ -46134,3 +46134,9 @@ CommitTimestamp,Id,Version
 2026-02-27T10:11:34.8151103+00:00,Stef.JmesPath.Net.Interop,1.0.0
 2026-02-27T10:12:41.0329300+00:00,Stef.JmesPath.Net,1.0.330-20260213.1
 2026-02-27T10:12:41.0329300+00:00,Stef.JmesPath.Net.Parser,1.0.330-20260213.1
+2026-02-27T13:22:11.2204071+00:00,ic4dotnet,1.4.1.3245-test
+2026-02-27T13:22:11.2204071+00:00,ic4dotnet.HalconDotNet,1.4.1.3245-test
+2026-02-27T13:22:11.2204071+00:00,ic4dotnet.OpenCvSharp,1.4.1.3245-test
+2026-02-27T13:22:11.2204071+00:00,ic4dotnet.System.Drawing,1.4.1.3245-test
+2026-02-27T13:22:11.2204071+00:00,ic4dotnet.System.Windows.Forms,1.4.1.3245-test
+2026-02-27T13:22:11.2204071+00:00,ic4dotnet.System.Windows.Media,1.4.1.3245-test
