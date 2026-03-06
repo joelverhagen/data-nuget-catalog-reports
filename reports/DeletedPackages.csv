@@ -46169,3 +46169,5 @@ CommitTimestamp,Id,Version
 2026-03-05T15:19:33.0749234+00:00,SｗatchSocket.Connection,2.0.0-beta.28
 2026-03-05T15:19:33.0749234+00:00,SｗatchSocket.Connection,2.0.0-beta.29
 2026-03-05T15:20:39.6733997+00:00,空のライブラリ２,1.0.5
+2026-03-06T23:01:23.0366354+00:00,SecureCryptoKeyExchangeProtocol,1.0.0
+2026-03-06T23:01:23.0366354+00:00,SecureCryptoKeyExchangeProtocol,1.1.0
