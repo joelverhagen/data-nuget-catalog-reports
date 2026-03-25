@@ -46380,3 +46380,7 @@ CommitTimestamp,Id,Version
 2026-03-25T09:15:14.3218942+00:00,ATPlatformAccountsManager.Client,4.20.1.45501
 2026-03-25T09:27:41.3425784+00:00,ATPlatformAccountsManager.Client,4.20.1.45501
 2026-03-25T09:32:01.7256054+00:00,ATPlatformAccountsManager.Client,4.20.1.45501
+2026-03-25T10:34:35.9769298+00:00,intelopenmp.devel.linux,2025.3.3.30
+2026-03-25T10:35:42.9008188+00:00,intelopenmp.devel.win,2025.3.3.31
+2026-03-25T10:35:42.9008188+00:00,intelopenmp.redist.win,2025.3.3.31
+2026-03-25T10:35:42.9008188+00:00,intelopenmp.static.linux,2025.3.3.30
