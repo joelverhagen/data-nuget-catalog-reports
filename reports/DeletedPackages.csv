@@ -46690,3 +46690,5 @@ CommitTimestamp,Id,Version
 2026-04-14T15:02:40.6967210+00:00,Siemens.ModularApplicationCreator.ControlModules.ModuleEssentials,19.0.4
 2026-04-15T07:21:38.6762756+00:00,Siemens.ModularApplicationCreator.ControlModules.ModuleEssentials,19.0.4
 2026-04-15T07:50:06.7649242+00:00,C1.Win.C1Calendar.Cn,4.8.20252.755
+2026-04-15T08:02:28.9542357+00:00,C1.Win.C1Input.MultiSelect.Cn,4.8.20252.755
+2026-04-15T08:02:28.9542357+00:00,C1.Win.FlexDiagram.Cn,10.0.20252.755
