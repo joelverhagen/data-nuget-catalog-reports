@@ -47757,3 +47757,10 @@ CommitTimestamp,Id,Version
 2026-05-20T15:51:27.6111233+00:00,Nexus.Pipeline,1.0.5
 2026-05-20T15:57:00.9523925+00:00,AspectCentral.Abstractions,2.0.0-rc.1
 2026-05-20T16:01:15.0294351+00:00,AspectCentral.Abstractions,2.0.0-rc.1
+2026-05-21T07:06:59.7624767+00:00,HassanMohamed.SharedKernel.Domain,1.0.0
+2026-05-21T07:08:45.2221489+00:00,SweetMock.Extensions.Http,0.9.40
+2026-05-21T07:22:33.3524268+00:00,HassanMohamed.SharedKernel.Application,1.0.0
+2026-05-21T07:24:19.0771284+00:00,HassanMohamed.SharedKernel.Infrastructure,1.0.0
+2026-05-21T07:26:02.0253197+00:00,HassanMohamed.SharedKernel.Application,1.0.0
+2026-05-21T07:26:02.0253197+00:00,HassanMohamed.SharedKernel.Domain,1.0.0
+2026-05-21T07:26:02.0253197+00:00,HassanMohamed.SharedKernel.Infrastructure,1.0.0
