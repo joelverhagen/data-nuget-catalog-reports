@@ -48161,3 +48161,16 @@ CommitTimestamp,Id,Version
 2026-06-09T16:31:58.6210291+00:00,Polly.RateLimiting,8.7.0
 2026-06-09T16:31:58.6210291+00:00,Polly.Testing,8.7.0
 2026-06-09T20:36:45.1874173+00:00,Newline53.Sdk,1.0.0
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.Helpers.AspNetCore,1.0.1
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageBus,1.0.4
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageBus.Abstractions,1.0.1
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageBus.Abstractions,1.0.2
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageBus.Abstractions,1.0.3
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageBus.Abstractions,1.0.4
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageContracts.Abstractions,1.0.1
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageContracts.Abstractions,1.0.2
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageContracts.Abstractions,1.0.4
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.MessageContracts.Abstractions,1.0.5
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.Messaging,1.0.1
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.Messaging,1.0.2
+2026-06-10T10:27:00.0907959+00:00,LabAnalysis.Messaging,1.0.4
