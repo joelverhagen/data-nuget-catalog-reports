@@ -49445,3 +49445,10 @@ CommitTimestamp,Id,Version
 2026-07-14T14:26:24.9123501+00:00,trigger-x-x,1.0.0
 2026-07-14T14:26:24.9123501+00:00,trigger-x-x,7.7.7
 2026-07-15T08:26:26.9586584+00:00,Synthora,2.4.12
+2026-07-15T18:03:43.8644427+00:00,SolarWindsAPM.Agent,6.3.1
+2026-07-15T18:03:43.8644427+00:00,SolarWindsAPM.Agent.Api,6.3.1
+2026-07-15T18:03:43.8644427+00:00,SolarWindsAPM.Agent.AzureAppServices.Extension,6.3.1
+2026-07-15T18:03:43.8644427+00:00,SolarWindsAPM.OpenTelemetry.Agent,6.3.1
+2026-07-15T18:03:43.8644427+00:00,SolarWindsAPM.OpenTelemetry.Agent.AzureAppServices.Extension,6.3.1
+2026-07-15T18:03:43.8644427+00:00,SolarWindsAPM.OpenTelemetry.Agent.Framework,6.3.1
+2026-07-15T18:03:43.8644427+00:00,SolarWindsAPM.OpenTelemetry.Agent.Native,6.3.1
