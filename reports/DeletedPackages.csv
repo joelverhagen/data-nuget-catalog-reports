@@ -49458,3 +49458,4 @@ CommitTimestamp,Id,Version
 2026-07-16T07:59:44.6092062+00:00,VmbNET.win-x64,1.3.3
 2026-07-16T16:39:36.9705523+00:00,CommunityToolkit.VectorData.CosmosNoSql,1.0.0-preview.1
 2026-07-16T18:07:43.8578375+00:00,CommunityToolkit.VectorData.SqlServer,1.0.0-preview.1
+2026-07-16T18:38:06.6272266+00:00,CommunityToolkit.VectorData.CosmosMongoDB,1.0.0-preview.1
