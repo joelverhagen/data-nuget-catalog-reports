@@ -49498,3 +49498,13 @@ CommitTimestamp,Id,Version
 2026-07-27T01:07:57.7361396+00:00,Zomp.SyncMethodGenerator,2.0.20
 2026-07-27T02:50:48.2595888+00:00,Zomp.SyncMethodGenerator,2.0.32
 2026-07-27T08:23:35.5020931+00:00,PLCcom.Opc.Ua.Sdk,10.6.2
+2026-07-27T12:01:17.5005467+00:00,CP.Extensions.Hosting.PluginService.Reactive,4.0.0
+2026-07-27T12:02:27.1723002+00:00,CP.Extensions.Hosting.Plugins.Reactive,4.0.0
+2026-07-27T12:03:37.3388335+00:00,CP.Extensions.Hosting.ReactiveUI.Avalonia.Reactive,4.0.0
+2026-07-27T12:08:40.8084894+00:00,CP.Extensions.Hosting.ReactiveUI.Wpf.Reactive,4.0.0
+2026-07-27T12:09:50.5909929+00:00,CP.Extensions.Hosting.ReactiveUI.WinUI.Reactive,4.0.0
+2026-07-27T12:10:59.4106334+00:00,CP.Extensions.Hosting.ReactiveUI.Avalonia.Reactive,4.0.0
+2026-07-27T12:10:59.4106334+00:00,CP.Extensions.Hosting.ReactiveUI.Maui.Reactive,4.0.0
+2026-07-27T12:10:59.4106334+00:00,CP.Extensions.Hosting.ReactiveUI.WinForms.Reactive,4.0.0
+2026-07-27T12:12:09.8566696+00:00,CP.Extensions.Hosting.Plugins.Reactive,4.0.0
+2026-07-27T12:12:09.8566696+00:00,CP.Extensions.Hosting.PluginService.Reactive,4.0.0
