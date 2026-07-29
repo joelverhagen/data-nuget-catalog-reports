@@ -49537,3 +49537,10 @@ CommitTimestamp,Id,Version
 2026-07-29T09:31:08.1255529+00:00,ShapeDiver.ContainerInterfaces,1.33.0
 2026-07-29T09:31:08.1255529+00:00,ShapeDiver.SDK,1.33.0
 2026-07-29T09:31:08.1255529+00:00,ShapeDiver.SDK.TokenGenerator,1.33.0
+2026-07-29T12:57:10.2433722+00:00,Xamarin.AndroidX.DataBinding.DataBindingAdapters,9.3.0
+2026-07-29T12:57:10.2433722+00:00,Xamarin.AndroidX.DataBinding.DataBindingCommon,9.3.0
+2026-07-29T12:57:10.2433722+00:00,Xamarin.AndroidX.DataBinding.DataBindingRuntime,9.3.0
+2026-07-29T12:57:10.2433722+00:00,Xamarin.AndroidX.DataBinding.ViewBinding,9.3.0
+2026-07-29T12:59:41.0556629+00:00,Xamarin.AndroidX.Wear.PhoneInteractions,1.1.1
+2026-07-29T13:01:37.4100435+00:00,Xamarin.Google.Android.Material,1.14.0.6
+2026-07-29T13:02:50.7545270+00:00,Xamarin.Google.Android.Recaptcha,18.9.2
