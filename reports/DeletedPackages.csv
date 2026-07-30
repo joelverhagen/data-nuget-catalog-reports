@@ -49551,3 +49551,10 @@ CommitTimestamp,Id,Version
 2026-07-29T18:21:16.0098722+00:00,skillmeter.osx-x64,0.1.0
 2026-07-29T18:21:16.0098722+00:00,skillmeter.win-arm64,0.1.0
 2026-07-29T18:21:16.0098722+00:00,skillmeter.win-x64,0.1.0
+2026-07-29T22:38:53.4871701+00:00,skillmeter,0.0.1-alpha.8
+2026-07-29T22:38:53.4871701+00:00,skillmeter.linux-arm64,0.0.1-alpha.8
+2026-07-29T22:38:53.4871701+00:00,skillmeter.linux-x64,0.0.1-alpha.8
+2026-07-29T22:38:53.4871701+00:00,skillmeter.osx-arm64,0.0.1-alpha.8
+2026-07-29T22:38:53.4871701+00:00,skillmeter.osx-x64,0.0.1-alpha.8
+2026-07-29T22:38:53.4871701+00:00,skillmeter.win-arm64,0.0.1-alpha.8
+2026-07-29T22:38:53.4871701+00:00,skillmeter.win-x64,0.0.1-alpha.8
