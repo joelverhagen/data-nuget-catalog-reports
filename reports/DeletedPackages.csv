@@ -51975,3 +51975,7 @@ CommitTimestamp,Id,Version
 2026-08-24T02:56:07.6711533+00:00,CoordinateSharp.Magnetic,3.5.1.1
 2026-08-24T03:01:56.8943472+00:00,CoordinateSharp.Magnetic,3.5.1.1
 2026-08-24T05:44:30.3685244+00:00,WinUIEx.Maps,0.1.0-preview
+2026-08-24T13:42:53.9866695+00:00,idunno.AtProto,5.0.0
+2026-08-24T13:42:53.9866695+00:00,idunno.AtProto.OAuthCallback,5.0.0
+2026-08-24T13:42:53.9866695+00:00,idunno.AtProto.Types,5.0.0
+2026-08-24T13:44:00.0528777+00:00,idunno.Bluesky,5.0.0
