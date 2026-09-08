@@ -54941,3 +54941,6 @@ CommitTimestamp,Id,Version
 2026-09-08T14:09:54.2851749+00:00,callback.CBFSEncrypt,26.0.9743
 2026-09-08T14:09:54.2851749+00:00,callback.CBFSVault,26.0.9743
 2026-09-08T14:09:54.2851749+00:00,callback.PCAPFilter,26.0.9743
+2026-09-08T17:06:52.5356633+00:00,Sfrep.AppraiseIt.Client.Integration,3.8.0.1
+2026-09-08T17:06:52.5356633+00:00,Sfrep.AppraiseIt.Client.Integration.Contract,3.8.0.1
+2026-09-08T17:06:52.5356633+00:00,Sfrep.AppraiseIt.Client.Standard.Settings,3.8.0.1
