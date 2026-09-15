@@ -54975,3 +54975,6 @@ CommitTimestamp,Id,Version
 2026-09-15T11:14:21.1592816+00:00,MFiles.VAF.Configuration,26.9.3
 2026-09-15T11:19:21.4519705+00:00,MFiles.Extensibility.Framework,26.9.3
 2026-09-15T11:20:49.8728672+00:00,MFiles.VAF.Configuration.Logging.NLog,26.9.3
+2026-09-15T14:37:00.1688843+00:00,KernelAbstractions.Domain,1.0.0
+2026-09-15T14:39:56.9411902+00:00,KernelAbstractions.Patterns,1.0.0
+2026-09-15T18:06:58.5739742+00:00,Microsoft.OData.Cli,0.3.2
