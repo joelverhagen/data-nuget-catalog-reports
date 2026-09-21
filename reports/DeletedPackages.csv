@@ -55013,3 +55013,11 @@ CommitTimestamp,Id,Version
 2026-09-18T03:36:50.2149979+00:00,Docfx.YamlSerialization,2.78.6
 2026-09-18T07:58:01.9948939+00:00,Scalesoft.Localization.Web.Script,2.7.1
 2026-09-20T15:22:03.1377963+00:00,WinUIEx.Maps,1.0.0-rc
+2026-09-21T02:16:04.1917286+00:00,Zomp.EFCore.BinaryFunctions,10.1.1
+2026-09-21T02:16:04.1917286+00:00,Zomp.EFCore.BinaryFunctions.Npgsql,10.1.1
+2026-09-21T02:16:04.1917286+00:00,Zomp.EFCore.BinaryFunctions.Sqlite,10.1.1
+2026-09-21T02:16:04.1917286+00:00,Zomp.EFCore.BinaryFunctions.SqlServer,10.1.1
+2026-09-21T02:16:04.1917286+00:00,Zomp.EFCore.WindowFunctions,10.1.1
+2026-09-21T02:16:04.1917286+00:00,Zomp.EFCore.WindowFunctions.Npgsql,10.1.1
+2026-09-21T02:16:04.1917286+00:00,Zomp.EFCore.WindowFunctions.Sqlite,10.1.1
+2026-09-21T02:16:04.1917286+00:00,Zomp.EFCore.WindowFunctions.SqlServer,10.1.1
