@@ -56005,3 +56005,7 @@ CommitTimestamp,Id,Version
 2026-10-02T14:04:27.6352978+00:00,Ahsoka.Extensions.Bluetooth,6.0.0-zzz-develop.10
 2026-10-02T15:03:51.4583088+00:00,RedSkia.Licensing,1.1.0
 2026-10-02T15:03:51.4583088+00:00,RedSkia.Licensing.Wpf,1.1.0
+2026-10-02T17:14:10.7062669+00:00,Javista.XrmToolBox.ManageNN,1.2026.10.15
+2026-10-02T21:07:40.1607347+00:00,Microsoft.Windows.Console.ConPTY,1.24.261001001
+2026-10-02T21:08:42.4760943+00:00,Microsoft.Windows.Console.ConPTY,1.25.260930003
+2026-10-02T21:08:42.4760943+00:00,Microsoft.Windows.Console.ConPTY,1.26.260930004-preview
