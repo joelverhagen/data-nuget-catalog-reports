@@ -56035,3 +56035,10 @@ CommitTimestamp,Id,Version
 2026-10-10T03:56:12.9803037+00:00,Equatables,0.0.1-alpha
 2026-10-11T23:19:55.5151498+00:00,Balsoft.Hive.Installer.Windows,1.0.0
 2026-10-11T23:19:55.5151498+00:00,Balsoft.Hive.Installer.Windows,1.1.0
+2026-10-13T09:37:37.2863459+00:00,Firely.Fhir.Validation,3.5.0
+2026-10-13T09:37:37.2863459+00:00,Firely.Fhir.Validation.Compilation,3.5.0
+2026-10-13T09:37:37.2863459+00:00,Firely.Fhir.Validation.Compilation.STU3,3.5.0
+2026-10-13T09:37:37.2863459+00:00,Firely.Fhir.Validation.R4B,3.5.0
+2026-10-13T09:38:40.1868028+00:00,Firely.Fhir.Validation.R4,3.5.0
+2026-10-13T09:38:40.1868028+00:00,Firely.Fhir.Validation.R5,3.5.0
+2026-10-13T09:38:40.1868028+00:00,Firely.Fhir.Validation.STU3,3.5.0
