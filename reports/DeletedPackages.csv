@@ -57446,3 +57446,4 @@ CommitTimestamp,Id,Version
 2026-10-19T17:07:29.3691402+00:00,Valitor.Security.ApiKeyAuthenticator,1.0.6
 2026-10-19T17:28:06.2781956+00:00,RuntimeServices,1.2.5
 2026-10-20T04:40:49.7991387+00:00,BT.TestAgent,1.1.929.1418
+2026-10-21T20:23:16.9070671+00:00,WarpClient.DependencyInjection,26.10.21.8417
