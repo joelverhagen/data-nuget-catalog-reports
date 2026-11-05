@@ -57775,3 +57775,13 @@ CommitTimestamp,Id,Version
 2026-11-03T01:28:29.2191727+00:00,Chartboost.CSharp.Utilities.Unity,2.1.0
 2026-11-04T11:53:47.3385409+00:00,Jabra.NET.Sdk,4.10.2.2
 2026-11-04T11:58:39.1654565+00:00,Jabra.NET.Sdk,4.10.2.2
+2026-11-04T22:45:20.1707277+00:00,libclang,23.1.5
+2026-11-04T22:45:20.1707277+00:00,libclang.runtime.linux-arm64,23.1.5
+2026-11-04T22:45:20.1707277+00:00,libclang.runtime.linux-x64,23.1.5
+2026-11-04T22:45:20.1707277+00:00,libClangSharp,23.1.5
+2026-11-04T22:46:23.5890049+00:00,libclang.runtime.win-arm64,23.1.5
+2026-11-04T22:46:23.5890049+00:00,libClangSharp.runtime.linux-arm64,23.1.5
+2026-11-04T22:46:23.5890049+00:00,libClangSharp.runtime.linux-x64,23.1.5
+2026-11-04T22:46:23.5890049+00:00,libClangSharp.runtime.win-arm64,23.1.5
+2026-11-04T22:46:23.5890049+00:00,libClangSharp.runtime.win-x64,23.1.5
+2026-11-04T22:59:27.2555266+00:00,TannerGooding.SourceBrowser,1.1.0
