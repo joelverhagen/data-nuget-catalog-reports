@@ -58035,3 +58035,11 @@ CommitTimestamp,Id,Version
 2026-11-10T22:06:17.9324164+00:00,Microsoft.VisualStudio.Validation,18.7.19
 2026-11-10T23:53:46.3757437+00:00,MindWorks.Nimbus.BuildTools,7.1.0
 2026-11-11T01:12:40.4977359+00:00,Chartboost.CSharp.Utilities.Unity,2.1.0
+2026-11-11T10:57:45.5948823+00:00,CommunityToolkit.DocumentExtraction.AzureContentUnderstanding,1.0.0-preview
+2026-11-11T10:57:45.5948823+00:00,CommunityToolkit.DocumentExtraction.PdfPig,1.0.0-preview
+2026-11-11T10:58:53.4614032+00:00,CommunityToolkit.DocumentExtraction.AzureDocumentIntelligence,1.0.0-preview
+2026-11-11T10:58:53.4614032+00:00,CommunityToolkit.DocumentExtraction.Mistral,1.0.0-preview
+2026-11-11T10:58:53.4614032+00:00,CommunityToolkit.DocumentExtraction.VisionLanguageModel,1.0.0-preview
+2026-11-11T12:34:58.7662235+00:00,Whatsmeow.Sidecar.Native.Linux,1.0.0-rc.1
+2026-11-11T12:36:07.2626342+00:00,Whatsmeow.Sidecar.Native.MacOS,1.0.0-rc.1
+2026-11-11T12:36:07.2626342+00:00,Whatsmeow.Sidecar.Native.Windows,1.0.0-rc.1
